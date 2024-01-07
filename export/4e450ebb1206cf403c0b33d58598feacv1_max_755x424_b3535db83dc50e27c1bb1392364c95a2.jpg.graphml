@@ -1,0 +1,1470 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<graphml xmlns='http://graphml.graphdrawing.org/xmlns' xmlns:java='http://www.yworks.com/xml/yfiles-common/1.0/java' xmlns:sys='http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0' xmlns:x='http://www.yworks.com/xml/yfiles-common/markup/2.0' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:y='http://www.yworks.com/xml/graphml' xmlns:yed='http://www.yworks.com/xml/yed/3' xsi:schemaLocation='http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd'>
+<key for='node' id='d1' yfiles.type='nodegraphics'/>
+<key for='edge' id='e1' yfiles.type='edgegraphics'/>
+<graph id='GMAF_Feature_Vector' edgedefault='undirected'>
+<node id='Root-Image'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Root-Image</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Face'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Face</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Water'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Water</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Cloud'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Cloud</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Sky'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Sky</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Dog'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Dog</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='People_on_beach'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>People_on_beach</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Leg'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Leg</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Dog_breed'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Dog_breed</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Carnivore'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Carnivore</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Human_body'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Human_body</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Beach'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Beach</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id=''>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel></y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Dog_1'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Dog_1</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Person'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Person</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='233fd8cf-99d6-4de7-93a2-eaeb7872961e'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e4b696ec-d3f4-4ca6-813e-dd489b39ddde'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel></y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='c7d2b777-fcc8-4315-972e-b16a43a4aed1'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='c3018276-e5be-43ce-b253-93f30a01837f'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='39c2efdd-9710-4dcb-8d06-ad58e46f780f'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel></y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='dbbae1f2-1cc3-48d5-9b8d-582a86200e3a'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='3fbc4571-472c-4196-951c-ff314f340f82'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='1b5c790e-36a3-4f5d-ba24-bac8b0b9635e'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel></y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='8a7eaafb-b7fa-4300-86f1-fa501bae429a'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='37503070-7a54-4da3-bf45-bf4652cd7697'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='f41d89f6-c6a6-4ae4-860d-0c6e1c11e23a'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel></y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='546af62e-adb0-4c99-a7dc-a3b0e3e9acff'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='6b2a9a75-a04d-4714-988a-e7818b1cdddf'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='c15e99b1-838f-4c69-a3f6-f17e152c37d9'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel></y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='5a243a60-1c74-4c74-8827-524937c3c5c2'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='a81fd2ba-08ee-4538-8376-cf2f0d5dab21'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='a29f8991-50fb-49e5-9d2f-1f744ba82988'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel></y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='90f7b091-d41b-4fdf-9c49-b07a41498e32'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='09fbe8a2-805e-4d17-9cc1-31848e0516b4'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='45238e1d-527a-461b-8d5c-006678a63f1c'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel></y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='5279ab8d-10d6-4710-9ea3-ea03c34bc7b8'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='0d0d1cae-6366-4b73-ae64-4079b42db8bf'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='6870704d-89c2-49a0-a2bd-3f5335560347'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel></y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='193df66b-495a-4e06-9233-bfe3a2645b77'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='039bab4c-0a7d-4bed-9a6b-c6dbf6fc9089'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='59add031-8608-446f-b4e8-dc08c7d78235'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel></y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='93ba81ba-a4d3-4834-8715-3c49061d90b3'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='0f6ac394-e9f3-4457-8ea5-aa9e2c681fe6'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='8cf1f989-2ce4-4064-a684-3ecd27c52fda'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel></y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='a52f6e59-6f3b-46e5-94f0-44f80a76931c'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='aed82811-d8dd-4537-a70b-75d07b574d2f'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='95a86884-a442-4d09-b36a-5b6d4de9ce95'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel></y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='46873456-7e7b-410b-90ac-253c7ced1539'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='cb374d7e-4454-42cd-aabd-4a8654723241'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel></y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='10d0acae-4662-485f-9f2e-8662500722d6'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='f13e32a6-c5be-4ee2-aada-f6896f1ad0b2'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#54E0A3' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>https://kgsearch.googleapis.com/v1/id//m/0bt9lr</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='84e0d108-d083-4c61-aee1-08ee960231d5'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_346_163_99_167</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='d9c94d99-bf7a-45e0-bd7d-060850edd07b'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='74e396de-15ee-49ff-a4e6-6755530de8dd'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#54E0A3' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>https://kgsearch.googleapis.com/v1/id//m/01g317</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='facad476-d596-45ab-9182-a3af284ffedb'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_424_118_123_209</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='326dae5a-8ca7-4f19-8a1e-832fe832539f'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='2ccf21ba-e389-497d-8693-db2536f58484'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FA9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>3e92c20f-28c6-4bff-ba37-af51d98df401</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='d6294afc-3636-4e71-847b-e8da0ee8302f'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FA9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>3e92c20f-28c6-4bff-ba37-af51d98df401</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=null</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=null</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=null</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0.0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=null</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0.0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='e3afd211-9857-490e-ac56-3da4f636c369'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FA9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>4e450ebb1206cf403c0b33d58598feacv1_max_755x424_b3535db83dc50e27c1bb1392364c95a2.jpg</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='534b89f9-c4a6-412b-b5a1-e36fc215e214'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FA9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>http://dev.step2e.de/be68594d-cdba-485b-a157-9725b3bc9ed6.jpg</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='40312fa7-ae3a-44eb-a567-d8cccae5b3f6'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FA9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>GMAF_TMP_6786252063107893396.jpg</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><edge id='e_233fd8cf-99d6-4de7-93a2-eaeb7872961e' source='Root-Image' target='233fd8cf-99d6-4de7-93a2-eaeb7872961e'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='a524b422-e6fd-41e7-afa7-c312d4c80368' source='Root-Image' target='Face'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='d62668d4-c885-4cf0-859d-77c0c1551b6c' source='Root-Image' target='Water'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='acc4043f-5640-4150-9e16-3972b106a5df' source='Root-Image' target='Cloud'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='022db58e-3c27-4e99-b36d-c0ac9ac87485' source='Root-Image' target='Sky'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='afaba93c-f614-4e98-b678-1c309b312b12' source='Root-Image' target='Dog'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='f1e902da-ed54-403f-8c24-89bf201b9b39' source='Root-Image' target='People_on_beach'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='380b9fda-3167-40b8-9957-f2e285f6b511' source='Root-Image' target='Leg'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='55d1ec33-5c50-4164-a2d8-51f6437878a3' source='Root-Image' target='Dog_breed'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='2f0553d7-ad72-4f84-a98d-d14460cacfb9' source='Root-Image' target='Carnivore'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='5bee30b3-d2b3-404a-b1d5-e578991d54c5' source='Root-Image' target='Human_body'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='843e4884-64e8-4786-9e2c-62548a625cb5' source='Root-Image' target='Beach'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='653d36c5-f614-4ba9-9d8d-635b3af5a6ff' source='Root-Image' target=''>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='6993e9d3-e149-4e11-a622-67dd30e57b45' source='Root-Image' target='Dog_1'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='75991fde-7220-441a-a11b-66ebc21ce4d4' source='Root-Image' target='Person'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e4b696ec-d3f4-4ca6-813e-dd489b39ddde' source='Face' target='e4b696ec-d3f4-4ca6-813e-dd489b39ddde'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_c7d2b777-fcc8-4315-972e-b16a43a4aed1' source='Face' target='c7d2b777-fcc8-4315-972e-b16a43a4aed1'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_c3018276-e5be-43ce-b253-93f30a01837f' source='Water' target='c3018276-e5be-43ce-b253-93f30a01837f'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_39c2efdd-9710-4dcb-8d06-ad58e46f780f' source='Water' target='39c2efdd-9710-4dcb-8d06-ad58e46f780f'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_dbbae1f2-1cc3-48d5-9b8d-582a86200e3a' source='Water' target='dbbae1f2-1cc3-48d5-9b8d-582a86200e3a'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_3fbc4571-472c-4196-951c-ff314f340f82' source='Cloud' target='3fbc4571-472c-4196-951c-ff314f340f82'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_1b5c790e-36a3-4f5d-ba24-bac8b0b9635e' source='Cloud' target='1b5c790e-36a3-4f5d-ba24-bac8b0b9635e'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_8a7eaafb-b7fa-4300-86f1-fa501bae429a' source='Cloud' target='8a7eaafb-b7fa-4300-86f1-fa501bae429a'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_37503070-7a54-4da3-bf45-bf4652cd7697' source='Sky' target='37503070-7a54-4da3-bf45-bf4652cd7697'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_f41d89f6-c6a6-4ae4-860d-0c6e1c11e23a' source='Sky' target='f41d89f6-c6a6-4ae4-860d-0c6e1c11e23a'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_546af62e-adb0-4c99-a7dc-a3b0e3e9acff' source='Sky' target='546af62e-adb0-4c99-a7dc-a3b0e3e9acff'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_6b2a9a75-a04d-4714-988a-e7818b1cdddf' source='Dog' target='6b2a9a75-a04d-4714-988a-e7818b1cdddf'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_c15e99b1-838f-4c69-a3f6-f17e152c37d9' source='Dog' target='c15e99b1-838f-4c69-a3f6-f17e152c37d9'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_5a243a60-1c74-4c74-8827-524937c3c5c2' source='Dog' target='5a243a60-1c74-4c74-8827-524937c3c5c2'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_a81fd2ba-08ee-4538-8376-cf2f0d5dab21' source='People_on_beach' target='a81fd2ba-08ee-4538-8376-cf2f0d5dab21'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_a29f8991-50fb-49e5-9d2f-1f744ba82988' source='People_on_beach' target='a29f8991-50fb-49e5-9d2f-1f744ba82988'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_90f7b091-d41b-4fdf-9c49-b07a41498e32' source='People_on_beach' target='90f7b091-d41b-4fdf-9c49-b07a41498e32'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_09fbe8a2-805e-4d17-9cc1-31848e0516b4' source='Leg' target='09fbe8a2-805e-4d17-9cc1-31848e0516b4'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_45238e1d-527a-461b-8d5c-006678a63f1c' source='Leg' target='45238e1d-527a-461b-8d5c-006678a63f1c'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_5279ab8d-10d6-4710-9ea3-ea03c34bc7b8' source='Leg' target='5279ab8d-10d6-4710-9ea3-ea03c34bc7b8'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_0d0d1cae-6366-4b73-ae64-4079b42db8bf' source='Dog_breed' target='0d0d1cae-6366-4b73-ae64-4079b42db8bf'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_6870704d-89c2-49a0-a2bd-3f5335560347' source='Dog_breed' target='6870704d-89c2-49a0-a2bd-3f5335560347'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_193df66b-495a-4e06-9233-bfe3a2645b77' source='Dog_breed' target='193df66b-495a-4e06-9233-bfe3a2645b77'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_039bab4c-0a7d-4bed-9a6b-c6dbf6fc9089' source='Carnivore' target='039bab4c-0a7d-4bed-9a6b-c6dbf6fc9089'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_59add031-8608-446f-b4e8-dc08c7d78235' source='Carnivore' target='59add031-8608-446f-b4e8-dc08c7d78235'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_93ba81ba-a4d3-4834-8715-3c49061d90b3' source='Carnivore' target='93ba81ba-a4d3-4834-8715-3c49061d90b3'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_0f6ac394-e9f3-4457-8ea5-aa9e2c681fe6' source='Human_body' target='0f6ac394-e9f3-4457-8ea5-aa9e2c681fe6'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_8cf1f989-2ce4-4064-a684-3ecd27c52fda' source='Human_body' target='8cf1f989-2ce4-4064-a684-3ecd27c52fda'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_a52f6e59-6f3b-46e5-94f0-44f80a76931c' source='Human_body' target='a52f6e59-6f3b-46e5-94f0-44f80a76931c'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_aed82811-d8dd-4537-a70b-75d07b574d2f' source='Beach' target='aed82811-d8dd-4537-a70b-75d07b574d2f'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_95a86884-a442-4d09-b36a-5b6d4de9ce95' source='Beach' target='95a86884-a442-4d09-b36a-5b6d4de9ce95'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_46873456-7e7b-410b-90ac-253c7ced1539' source='Beach' target='46873456-7e7b-410b-90ac-253c7ced1539'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_cb374d7e-4454-42cd-aabd-4a8654723241' source='' target='cb374d7e-4454-42cd-aabd-4a8654723241'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_10d0acae-4662-485f-9f2e-8662500722d6' source='' target='10d0acae-4662-485f-9f2e-8662500722d6'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_f13e32a6-c5be-4ee2-aada-f6896f1ad0b2' source='Dog_1' target='f13e32a6-c5be-4ee2-aada-f6896f1ad0b2'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#54E0A3' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>sr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_84e0d108-d083-4c61-aee1-08ee960231d5' source='Dog_1' target='84e0d108-d083-4c61-aee1-08ee960231d5'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_d9c94d99-bf7a-45e0-bd7d-060850edd07b' source='Dog_1' target='d9c94d99-bf7a-45e0-bd7d-060850edd07b'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_74e396de-15ee-49ff-a4e6-6755530de8dd' source='Person' target='74e396de-15ee-49ff-a4e6-6755530de8dd'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#54E0A3' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>sr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_facad476-d596-45ab-9182-a3af284ffedb' source='Person' target='facad476-d596-45ab-9182-a3af284ffedb'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_326dae5a-8ca7-4f19-8a1e-832fe832539f' source='Person' target='326dae5a-8ca7-4f19-8a1e-832fe832539f'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_2ccf21ba-e389-497d-8693-db2536f58484' source='Root-Image' target='2ccf21ba-e389-497d-8693-db2536f58484'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FA9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>content</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_d6294afc-3636-4e71-847b-e8da0ee8302f' source='2ccf21ba-e389-497d-8693-db2536f58484' target='d6294afc-3636-4e71-847b-e8da0ee8302f'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FA9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>gm</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='d6294afc-3636-4e71-847b-e8da0ee8302f' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e3afd211-9857-490e-ac56-3da4f636c369' source='2ccf21ba-e389-497d-8693-db2536f58484' target='e3afd211-9857-490e-ac56-3da4f636c369'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FA9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>location</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_534b89f9-c4a6-412b-b5a1-e36fc215e214' source='2ccf21ba-e389-497d-8693-db2536f58484' target='534b89f9-c4a6-412b-b5a1-e36fc215e214'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FA9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>location</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_40312fa7-ae3a-44eb-a567-d8cccae5b3f6' source='2ccf21ba-e389-497d-8693-db2536f58484' target='40312fa7-ae3a-44eb-a567-d8cccae5b3f6'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FA9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>location</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+</graph></graphml>

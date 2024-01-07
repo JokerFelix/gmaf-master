@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+    <rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:owl="http://www.w3.org/2002/07/owl#"
+        xmlns:local="http://local/"
+        xml:base="file:/Users/stefan_wagenpfeil/git/repository/gmaf/">
+        
+			<owl:Ontology rdf:ID="17818939.jpg"/>
+        <owl:Class rdf:about="http://local/MMFG"/>
+        <owl:Class rdf:about="http://local/Node"/>
+        <owl:Class rdf:about="http://local/Annotation_Anchor"/>
+        <owl:Class rdf:about="http://local/Relationship"/>			<owl:Class rdf:about="http://local/Root-Image">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Root-Image"/>
+            <rdfs:label>17818939.jpg</rdfs:label>
+            <rdfs:label>http://dev.step2e.de/ad783b35-e8fb-4b06-b0f8-eb8a73c134c1.jpg</rdfs:label>
+            <rdfs:label>GMAF_TMP_330390234135540265.jpg</rdfs:label>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Water">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Water"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Building">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Building"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Skyscraper">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Skyscraper"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Sky">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Sky"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Water_resources">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Water_resources"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Daytime">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Daytime"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Nature">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Nature"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Dusk">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Dusk"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/World">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/World"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Tower_block">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Tower_block"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Brooklyn_Bridge_Park">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Brooklyn_Bridge_Park"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Empire_State_Building">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Empire_State_Building"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Building_1">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Building_1"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Building_2">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Building_2"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Building_3">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Building_3"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Building_4">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Building_4"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Building_5">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Building_5"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Skyscraper">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Skyscraper"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Building">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Building"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Property">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Property"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Sky">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Sky"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Tower">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Tower"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Tower_block">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Tower_block"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Urban_design">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Urban_design"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Condominium">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Condominium"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Commercial_building">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Commercial_building"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Facade">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Facade"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Building_1">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Building_1"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Building">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Building"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Tower_block">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Tower_block"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Urban_design">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Urban_design"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Sky">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Sky"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Condominium">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Condominium"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Facade">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Facade"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/City">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/City"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Commercial_building">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Commercial_building"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Engineering">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Engineering"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Metal">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Metal"/>
+        </owl:Class>
+
+			<owl:Class rdf:about="http://local/Building_1">
+            <rdfs:subClassOf rdf:resource="http://local/Node"/>
+            <rdfs:isDefinedBy rdf:resource="https://dbpedia.org/page/Building_1"/>
+        </owl:Class>
+
+		<owl:DatatypeProperty rdf:about="http://local/contains">
+         <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+<rdfs:domain rdf:resource="http://local/Root-Image"/>
+<rdfs:range rdf:resource="http://local/Water"/><rdfs:range rdf:resource="http://local/Building"/><rdfs:range rdf:resource="http://local/Skyscraper"/><rdfs:range rdf:resource="http://local/Sky"/><rdfs:range rdf:resource="http://local/Water_resources"/><rdfs:range rdf:resource="http://local/Daytime"/><rdfs:range rdf:resource="http://local/Nature"/><rdfs:range rdf:resource="http://local/Dusk"/><rdfs:range rdf:resource="http://local/World"/><rdfs:range rdf:resource="http://local/Tower_block"/><rdfs:range rdf:resource="http://local/Brooklyn_Bridge_Park"/><rdfs:range rdf:resource="http://local/Empire_State_Building"/><rdfs:range rdf:resource="http://local/Building_1"/><rdfs:range rdf:resource="http://local/Building_2"/><rdfs:range rdf:resource="http://local/Building_3"/><rdfs:range rdf:resource="http://local/Building_4"/><rdfs:range rdf:resource="http://local/Building_5"/><rdfs:range rdf:resource="http://local/Skyscraper"/><rdfs:range rdf:resource="http://local/Building"/><rdfs:range rdf:resource="http://local/Property"/><rdfs:range rdf:resource="http://local/Sky"/><rdfs:range rdf:resource="http://local/Tower"/><rdfs:range rdf:resource="http://local/Tower_block"/><rdfs:range rdf:resource="http://local/Urban_design"/><rdfs:range rdf:resource="http://local/Condominium"/><rdfs:range rdf:resource="http://local/Commercial_building"/><rdfs:range rdf:resource="http://local/Facade"/><rdfs:range rdf:resource="http://local/Building_1"/><rdfs:range rdf:resource="http://local/Building"/><rdfs:range rdf:resource="http://local/Tower_block"/><rdfs:range rdf:resource="http://local/Urban_design"/><rdfs:range rdf:resource="http://local/Sky"/><rdfs:range rdf:resource="http://local/Condominium"/><rdfs:range rdf:resource="http://local/Facade"/><rdfs:range rdf:resource="http://local/City"/><rdfs:range rdf:resource="http://local/Commercial_building"/><rdfs:range rdf:resource="http://local/Engineering"/><rdfs:range rdf:resource="http://local/Metal"/><rdfs:range rdf:resource="http://local/Building_1"/>        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToRoot-Image">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Root-Image"/>
+            <rdfs:range rdf:resource="http://local/Water"/>
+            <rdfs:range rdf:resource="http://local/Building"/>
+            <rdfs:range rdf:resource="http://local/Skyscraper"/>
+            <rdfs:range rdf:resource="http://local/Sky"/>
+            <rdfs:range rdf:resource="http://local/Water_resources"/>
+            <rdfs:range rdf:resource="http://local/Daytime"/>
+            <rdfs:range rdf:resource="http://local/Nature"/>
+            <rdfs:range rdf:resource="http://local/Dusk"/>
+            <rdfs:range rdf:resource="http://local/World"/>
+            <rdfs:range rdf:resource="http://local/Tower_block"/>
+            <rdfs:range rdf:resource="http://local/Brooklyn_Bridge_Park"/>
+            <rdfs:range rdf:resource="http://local/Empire_State_Building"/>
+            <rdfs:range rdf:resource="http://local/Building_1"/>
+            <rdfs:range rdf:resource="http://local/Building_2"/>
+            <rdfs:range rdf:resource="http://local/Building_3"/>
+            <rdfs:range rdf:resource="http://local/Building_4"/>
+            <rdfs:range rdf:resource="http://local/Building_5"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToWater">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Water"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToBuilding">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Building"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToSkyscraper">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Skyscraper"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToSky">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Sky"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToWater_resources">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Water_resources"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToDaytime">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Daytime"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToNature">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Nature"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToDusk">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Dusk"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToWorld">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/World"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToTower_block">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Tower_block"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToBrooklyn_Bridge_Park">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Brooklyn_Bridge_Park"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToEmpire_State_Building">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Empire_State_Building"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToBuilding_1">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Building_1"/>
+            <rdfs:range rdf:resource="http://local/Skyscraper"/>
+            <rdfs:range rdf:resource="http://local/Building"/>
+            <rdfs:range rdf:resource="http://local/Property"/>
+            <rdfs:range rdf:resource="http://local/Sky"/>
+            <rdfs:range rdf:resource="http://local/Tower"/>
+            <rdfs:range rdf:resource="http://local/Tower_block"/>
+            <rdfs:range rdf:resource="http://local/Urban_design"/>
+            <rdfs:range rdf:resource="http://local/Condominium"/>
+            <rdfs:range rdf:resource="http://local/Commercial_building"/>
+            <rdfs:range rdf:resource="http://local/Facade"/>
+            <rdfs:range rdf:resource="http://local/Building_1"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToBuilding_2">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Building_2"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToBuilding_3">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Building_3"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToBuilding_4">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Building_4"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToBuilding_5">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Building_5"/>
+            <rdfs:range rdf:resource="http://local/Building"/>
+            <rdfs:range rdf:resource="http://local/Tower_block"/>
+            <rdfs:range rdf:resource="http://local/Urban_design"/>
+            <rdfs:range rdf:resource="http://local/Sky"/>
+            <rdfs:range rdf:resource="http://local/Condominium"/>
+            <rdfs:range rdf:resource="http://local/Facade"/>
+            <rdfs:range rdf:resource="http://local/City"/>
+            <rdfs:range rdf:resource="http://local/Commercial_building"/>
+            <rdfs:range rdf:resource="http://local/Engineering"/>
+            <rdfs:range rdf:resource="http://local/Metal"/>
+            <rdfs:range rdf:resource="http://local/Building_1"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToSkyscraper">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Skyscraper"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToBuilding">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Building"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToProperty">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Property"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToSky">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Sky"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToTower">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Tower"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToTower_block">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Tower_block"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToUrban_design">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Urban_design"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToCondominium">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Condominium"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToCommercial_building">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Commercial_building"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToFacade">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Facade"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToBuilding_1">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Building_1"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToBuilding">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Building"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToTower_block">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Tower_block"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToUrban_design">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Urban_design"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToSky">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Sky"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToCondominium">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Condominium"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToFacade">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Facade"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToCity">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/City"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToCommercial_building">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Commercial_building"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToEngineering">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Engineering"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToMetal">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Metal"/>
+        </owl:DatatypeProperty>
+
+			<owl:DatatypeProperty rdf:about="http://local/relatesToBuilding_1">
+            <rdfs:subClassOf rdf:resource="http://local/Relationship"/>
+            <rdfs:domain rdf:resource="http://local/Building_1"/>
+        </owl:DatatypeProperty>
+
+</rdf:RDF>

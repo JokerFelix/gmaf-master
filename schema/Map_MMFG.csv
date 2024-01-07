@@ -1,0 +1,15 @@
+﻿Default MPEG7;MMFG;;;;;;
+VideoId;/de.swa.mmfg.MMFG/nodes/de.swa.mmfg.Node/name;;;;;;
+MediaUri;/de.swa.mmfg.MMFG/locations/de.swa.mmfg.Location/location;;;;;;
+CreationTitle;/de.swa.mmfg.MMFG/generalMetadata/title;;;;;;
+CreationAbstract;/de.swa.mmfg.MMFG/generalMetadata/videoInfo;;;;;;
+CreationCreator;/de.swa.mmfg.MMFG/generalMetadata/creator;;;;;;
+CreationCoordinatesName;/de.swa.mmfg.MMFG/generalMetadata/creationPlace;;;;;;
+CreationCoordinatesDate;/de.swa.mmfg.MMFG/generalMetadata/CreationTime;;;;;;
+AssetMediaTimePoint;/de.swa.mmfg.MMFG/nodes/de.swa.mmfg.Node/technicalAttributes/de.swa.mmfg.TechnicalAttribute/MediaTimePoint;;;;;;
+AssetMediaDuration;/de.swa.mmfg.MMFG/nodes/de.swa.mmfg.Node/technicalAttributes/de.swa.mmfg.TechnicalAttribute/MediaDuration;;;;;;
+SceneId;/de.swa.mmfg.MMFG/nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/name;;;;;;
+SceneMediaTimePoint;/de.swa.mmfg.MMFG/nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/technicalAttributes/de.swa.mmfg.TechnicalAttribute/MediaTimePoint;;;;;;
+SceneMediaDuration;/de.swa.mmfg.MMFG/nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/technicalAttributes/de.swa.mmfg.TechnicalAttribute/MediaDuration;;;;;;
+TextAnnotation;/de.swa.mmfg.MMFG/nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/textAnnotation;;;;;;
+KeywordAnnotation;/de.swa.mmfg.MMFG/nodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node/keywordAnnotation;;;;;;

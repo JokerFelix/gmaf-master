@@ -1,0 +1,50 @@
+<de.swa.mmfg.MMFG>
+  <nodes>
+    <de.swa.mmfg.Node>
+      <name>Root-Asset</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context>
+            <name>Default</name>
+            <id>5c7b3884-649b-4397-bdae-9306de17cbcf</id>
+          </context>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+  </nodes>
+  <timeranges/>
+  <generalMetadata>
+    <id>c5b1af54-c689-4115-9c1e-f52e2c060b86</id>
+    <longitude>0</longitude>
+    <latitude>0</latitude>
+    <aperture>0.0</aperture>
+    <exposure>0.0</exposure>
+    <focalLength>0</focalLength>
+    <resolution>0</resolution>
+    <width>0</width>
+    <height>0</height>
+    <fileSize>0</fileSize>
+    <iso>0</iso>
+    <shutterSpeed>0</shutterSpeed>
+    <fileName>testfile.png</fileName>
+  </generalMetadata>
+  <locations>
+    <de.swa.mmfg.Location>
+      <type>40</type>
+      <name>testfile.png</name>
+    </de.swa.mmfg.Location>
+  </locations>
+  <currentNode reference="../nodes/de.swa.mmfg.Node"/>
+  <allNodes>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node"/>
+  </allNodes>
+  <collectionElements/>
+</de.swa.mmfg.MMFG>

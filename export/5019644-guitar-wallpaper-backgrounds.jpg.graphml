@@ -1,0 +1,4569 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<graphml xmlns='http://graphml.graphdrawing.org/xmlns' xmlns:java='http://www.yworks.com/xml/yfiles-common/1.0/java' xmlns:sys='http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0' xmlns:x='http://www.yworks.com/xml/yfiles-common/markup/2.0' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:y='http://www.yworks.com/xml/graphml' xmlns:yed='http://www.yworks.com/xml/yed/3' xsi:schemaLocation='http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd'>
+<key for='node' id='d1' yfiles.type='nodegraphics'/>
+<key for='edge' id='e1' yfiles.type='edgegraphics'/>
+<graph id='GMAF_Feature_Vector' edgedefault='undirected'>
+<node id='Root-Image'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Root-Image</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Fender_66666'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Fender_66666</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Fender'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Fender</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='66666'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>66666</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Musical_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Musical_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Guitar'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Guitar</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='String_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>String_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='String_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>String_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='String_instrument_accessory'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>String_instrument_accessory</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Guitar_accessory'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Guitar_accessory</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Wood'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Wood</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Musical_instrument_accessory'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Musical_instrument_accessory</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Plucked_string_instruments'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Plucked_string_instruments</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Music'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Music</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Guitar_1'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Guitar_1</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Fender_66666'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Fender_66666</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Fender'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Fender</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='66666'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>66666</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Musical_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Musical_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Guitar'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Guitar</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='String_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>String_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='String_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>String_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='String_instrument_accessory'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>String_instrument_accessory</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Plucked_string_instruments'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Plucked_string_instruments</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Musical_instrument_accessory'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Musical_instrument_accessory</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Guitar_accessory'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Guitar_accessory</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Wood'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Wood</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Folk_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Folk_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Guitar_1'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Guitar_1</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Frnder'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Frnder</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Frnder'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Frnder</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Musical_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Musical_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Guitar'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Guitar</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='String_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>String_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='String_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>String_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='String_instrument_accessory'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>String_instrument_accessory</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Musical_instrument_accessory'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Musical_instrument_accessory</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Plucked_string_instruments'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Plucked_string_instruments</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Guitar_accessory'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Guitar_accessory</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Wood'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Wood</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Music'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Music</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Guitar_1'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Guitar_1</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='666666'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>666666</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='666666'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>666666</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Musical_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Musical_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Guitar'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Guitar</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='String_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>String_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Musical_instrument_accessory'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Musical_instrument_accessory</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='String_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>String_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='String_instrument_accessory'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>String_instrument_accessory</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Plucked_string_instruments'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Plucked_string_instruments</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Guitar_accessory'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Guitar_accessory</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Wood'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Wood</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Folk_instrument'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Folk_instrument</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='Guitar_1'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#33AFFF' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Guitar_1</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='69902815-40a3-46ec-9d14-52bf3a5cffb5'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='10ec7cda-5167-4dbb-92d6-f543f18cb187'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_300_391_979_382</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='a55e6b6d-3877-4e4d-98c4-f581256a1995'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='59cfa86b-f215-45ed-89a3-85b7b1839f74'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='bd3ca4c0-c12d-4e37-bfcc-1cf2258e1bed'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_1239_700_41_73</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='726153ad-6607-4e21-89fc-dbce29a54542'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='cef531e6-52e9-48ea-941c-2ed80c447208'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='0213fe10-df2d-4803-8669-3bae0a6dc9d4'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_301_391_32_62</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='cd87c634-82a2-4584-97ee-df92dda3e637'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='1a6e073b-4d45-4673-a7fa-031c8288295e'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='6fa1693c-c735-42e2-8a33-ab916a68eda1'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='695934cd-7a74-424b-815b-f1bec53eddd2'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='fccd4589-4c11-4b78-8740-e01284f916df'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='35b4753e-90e9-435f-b069-3223c6317f53'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='f46b32a1-b6d5-4ae8-9393-0931e2bb2e48'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='166703b1-7b5a-4124-b560-4a2d81d88c08'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='8c200de9-2e6e-41b6-bd94-98aafe158833'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='d12adce2-db05-452b-ad9e-eda913395a22'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e6410054-633a-4cab-b556-4eee57ca4be6'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='263a0108-f806-4114-8382-56adc3aaae15'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='7b95f607-c8f0-44de-9358-62a9d0027119'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='f0f047a2-8723-4427-923f-aca065b56f7e'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='13cabf68-116c-4080-9333-6e07e580d3a5'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e94e9283-8a6d-4929-ae0d-6aabad598bc0'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='4299f415-29ff-4163-9cf2-b8d69da7dda3'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='209d20fd-3845-4675-ba67-9a7d10e74aec'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='cdd24ba9-a7f1-49bd-8df0-7557667ba1f0'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='f6da13da-3039-4594-8b5b-2be3639b41a0'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='80155311-345a-4444-a1ea-c74b467fcdfd'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='3b8dfa60-81c1-4ca9-853c-2371ef10d9a4'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='79bcff99-4c9f-47d7-a537-8103d523610b'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='c1b6a96e-83cd-4a6f-823d-f504def4c1b6'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='1cf56de3-5444-4495-a253-eb2dd887e49a'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='fee796e0-f72b-4456-8d10-156362678010'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e3807eee-91c2-49ec-8b98-18586453ec67'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e9fb175d-b3b7-46e8-8dee-4cdadfce7be5'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='5de43c4c-61d9-4aad-917d-63ee4a8ef317'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='1061fc93-a77d-40ee-82f8-5c1e33794ae2'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='f60a01f1-97fe-4d1c-a0a4-785db86d41aa'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='3712d0c1-4c0a-4235-ad23-bc6e67ea1885'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='35901301-babb-48ef-9566-13c23bef356b'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#54E0A3' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>https://kgsearch.googleapis.com/v1/id//m/0342h</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='51328115-9530-4711-8d37-a1e548f5828e'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_106_178_1303_672</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='4e4fb1a4-aabe-4492-a341-15befc2b0517'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e07c094a-5184-4dfd-8d65-268da56843fc'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_196_202_975_393</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='fc2a2e7e-f2e7-4944-ae1f-e69411372dc6'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='777462d1-2320-4719-bc63-771aa5db6ec8'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='7c4a7390-b3e2-4499-861d-4c63949cbfcc'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_1134_524_38_71</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='31cd356f-804e-4719-bed4-0905d568020e'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e50c6d1c-1d01-420b-9782-cc4a30b61c44'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='11562992-73a2-4d0a-88a2-0ccb65c22701'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_198_202_38_65</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='cf72d936-ab11-4314-a67e-f960ae07f438'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='3ae6bb2b-4cba-46a5-8f93-907a29088f10'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='9260b0cf-27bf-44c9-ab04-d9306f4e566a'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='b79a0e99-e5b4-42e9-a870-f90e81dfeda7'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e1d9cb59-7668-4a1e-8a63-d9b7ed2a2883'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='062e41d6-1e4c-4733-af8f-c55a930301c1'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='c0b9b0d1-d64d-42bb-bea4-9258d737ca8d'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='501c5dbf-ce1e-4088-9c03-c43c89409187'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='90cfebd9-0bd7-4f4a-84ed-4d752ac02acb'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='972ac4cc-c24c-433b-992c-bd1544d8fbc4'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='4531fb52-bbe2-4aa8-bb76-a7f78515bdae'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='77526491-91c0-4ea6-98e6-76de01b03462'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='28d9250a-707a-4009-983a-4ae6e668cf26'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='8ec39148-fff9-463c-8d58-c7b3fc7f71ee'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='5d0297e3-df03-415a-9923-63eb01081af3'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='2c9a564c-385d-424d-a1e1-826bb0fc852d'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='3dc2b5de-52ad-4a23-96b0-29d0b5078f16'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='5b047c4a-c82e-4093-b3f1-0cf58d3082c5'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='ecb4001b-a416-40ad-b77a-cb360be32deb'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='9b1ba50e-5c46-48e7-a3d1-8137a52242ed'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='f96c4c63-a088-406c-b260-b004feb2c09c'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='8ed5ab9e-505a-41bf-9254-d1262d6d4a57'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='edcea750-5eab-4374-bbad-af081e9d3938'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='ae03b264-e2e8-4013-b296-7411ebcc8749'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='acffe6b6-6aef-45c7-9935-638f1900158c'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='2d332b9a-8273-4c25-9b52-4eaaceec6b00'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='2a06fba5-d3ac-47a2-b896-de56cb7b83f4'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='0159de83-469f-4128-a5f6-13ecb1b10872'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='9f59d614-2ece-466d-a118-ee22a2c13b6f'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='6b03d424-5cce-43e0-851b-fa99554d7b89'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='358bb617-7988-4fed-9810-248d75fdec07'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='079a2e74-0b96-4dab-91bc-a4dfe0734ca5'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='899f05a1-8753-4599-8a07-5450144c148d'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#54E0A3' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>https://kgsearch.googleapis.com/v1/id//m/0342h</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='f9d99cce-b867-41bc-a0f1-9eb120d6c4bb'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_39_30_1162_608</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='2fc716f8-363b-49f8-9f86-9e33b2583d50'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='7a48b6f1-f735-4dfc-a33c-7f980aeecfd8'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_1094_492_41_74</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='392bfc8a-bfd1-4470-82d2-b9ba3203398d'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='2880132c-0800-4975-94c9-a4e8d3da2bee'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='3d6d8cd9-9007-4716-b343-58434df2ee5d'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_1096_492_40_74</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='179ca210-984f-4df6-bb22-2b3b28078dc5'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='fccc69e0-e343-45e9-a03a-afd5243d7e65'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='9c80d945-050f-4672-9eb5-b937a645cf83'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='803c76a2-0c89-4795-a295-60a6596deac9'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='dfb05301-30b2-4bad-bf64-7ba1cb28ffdc'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='6fb18cb8-f2aa-43bd-89b6-7796db58bfe6'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='59f3fa42-a13f-4a18-b2d5-ea2a00ff05bd'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='40174270-64e7-4a0a-88d2-bcabe6571241'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='b5204313-de00-4f31-ad91-49931e2d4600'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='1a8b238a-3b70-410d-a8d2-4430f6146584'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='29926953-0649-4dd6-a6f5-7ce82bc0b19d'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='54d1ed83-e8e4-4e82-b80f-f5942b497853'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='10d19df6-910d-4b1e-bc66-2d964c2066bc'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='7dd75a5d-6a58-4d8d-9ab9-e627abda8bce'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='c0526bce-5799-4c1f-80f3-80fa3a806bf4'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='aecc83e8-8ee5-4e70-92be-687e8750ca7a'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='71465425-8620-435b-9c45-a8d8762fb906'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='fc02c0a6-e56e-481d-8762-1841ba8f3f46'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='3ad2b19a-2ee8-4533-ad1a-46580c385dad'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='ebbd39c6-625a-4ed9-9458-33bf377cb123'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='20f7bc40-175a-4699-a858-87aa1683610a'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='ec297f1c-dd76-41a9-b7dc-17ba4966dbcc'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='d37fce16-a185-43d8-9789-7ff8d98a9501'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='53b7c66d-4104-44f8-957d-9fb0d6f3a93c'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='8ca36cf9-1926-4072-b2b4-44db90b07a6d'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='d28eb34c-f4cc-48fe-8148-b16b1e6991b8'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='fd9bc661-40c5-4c05-80ae-38d49029bf15'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='db493109-344d-440e-8ced-dded9bcda9cd'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='a9e619ef-bb03-4975-be0c-3294601fd13b'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='26342ab4-b7d0-41ca-9517-9a5e96bdeeaf'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='aecd6775-ddd0-415e-b781-bb969af6704c'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='9eb5e825-72a7-4525-9358-cbc928e42528'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='ad7eeca3-ad67-4781-b5ab-a66ed0aab31a'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#54E0A3' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>https://kgsearch.googleapis.com/v1/id//m/0342h</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='4b61772b-3d45-4a71-a083-171ab2557176'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_17_25_1101_560</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='d4710ecb-d461-4b77-94bd-a8890db114a6'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='43ba0bb3-1293-4e54-804e-f0424941c6ec'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_137_139_44_81</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='9bf082a9-cda7-49ba-82a4-37c11561a992'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e4c85254-c854-4577-9f87-c2912b7e8358'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='609aa433-c272-4917-ada2-84ced92321c5'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_138_139_44_81</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='ba635111-5d9d-4162-a2be-2775abff44f5'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='d93d7925-103a-4245-a630-52caea681f4b'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='fd503b10-2e3d-448b-b2f4-4e2dde6f95ed'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='324f59e2-671d-47d4-9bb8-ce120aff5716'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='b709b7b3-c2ed-4c8c-950f-b0294123038d'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='f6c02651-ff61-422f-a76e-0beb5080b4bb'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='19663b2e-c445-4b91-bbdd-12782fc352af'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='a674ad42-2c38-4caa-a9c4-171a3a7f76db'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e644866a-f215-4dee-b040-cfd1afd530f0'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='f9f5ce73-353d-4f89-92eb-7bfb1724f516'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='20d1c3d7-13e5-4756-bd38-0fdadffff907'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='bf567af1-d70f-450f-b3c5-3a7ab93fbacf'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='a14a6411-4fae-4d3c-a98d-d3d8879b2dbc'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='3b8edb73-f53b-48f1-b6a1-fe8a46392a52'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='27c82edd-7f33-45bb-841f-acd116e57525'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='9fa341d5-85f4-4b0b-ab7f-d627e71d1764'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='88e85985-5338-446c-8456-9348e7f7aa9d'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='6bcc02f3-934b-4ce9-bd19-ebfe2a7095b3'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='19d7be19-10da-4d94-89cd-87130f32763a'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='cebf1741-ca54-44f4-87ff-67d45b3f6e00'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='d245102a-c1cc-492a-adec-8dfc021dacfc'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='2c639a4b-066f-4c07-b327-80117e519bc9'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='cae9f26b-e4c4-4dec-be72-10059b093869'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='b22a07d6-388d-4d8a-95cf-8b13d35e0308'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e07bfd7f-1788-44b4-bb03-ff6d09d18afa'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='4e649a00-8311-4314-8fb1-f4673782533d'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='ce518ca1-c34f-49f5-80be-36ba917c0d14'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='2bb4f64c-4144-4e94-873a-116151540748'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='2e94b24b-7cd8-4711-9e7d-ab3f3637d1e0'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='11752fa0-a028-4ac1-8dc0-72fc12dc6bc3'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E0A954' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>BOX_0_0_0_0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e1e48be6-c7f1-4d75-b657-5b2ad3af44ea'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#E09BFE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>part of</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='d9ae83c8-a098-4473-aea3-44525720808f'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='7f573f25-93c9-4436-81e5-afc018a66a8e'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#54E0A3' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>https://kgsearch.googleapis.com/v1/id//m/0342h</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='6dd61027-0b90-4314-98ea-4b4e4c7c01f8'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FE9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Default:0.5</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e402293c-f4fe-4aa9-9e93-2bdc92dd6906'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FA9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>dad39028-2ca5-48bc-9eb1-69bddb3527f8</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='909b49eb-39bb-4985-b1c5-696ac6b2d087'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FA9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>dad39028-2ca5-48bc-9eb1-69bddb3527f8</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=null</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=null</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=null</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0.0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=null</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0.0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='GM_Camera'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#A7C4DE' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>Camera=0</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node>
+<node id='f08dfe4b-3061-480e-9b2c-1057eac54800'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FA9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>5019644-guitar-wallpaper-backgrounds.jpg</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='b0f9ca3a-896a-4c15-8135-f54759bfad87'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FA9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>http://dev.step2e.de/a2202d78-0639-4a9d-becf-e785097e46b4.jpg</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><node id='e458975c-e07f-48bb-b854-bb43171c50f1'>
+		<data key='d1'>
+		<y:ShapeNode>
+			<y:Geometry height='25.0' width='80.0'/>
+			<y:Fill color='#FA9BEC' transparent='false'/>
+			<y:BorderStyle color='#000000' type='line' width='1.0'/>
+			<y:NodeLabel>GMAF_TMP_8871928902668895554.jpg</y:NodeLabel>
+		</y:ShapeNode>
+ </data>
+</node><edge id='e_69902815-40a3-46ec-9d14-52bf3a5cffb5' source='Root-Image' target='69902815-40a3-46ec-9d14-52bf3a5cffb5'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='7853316b-371c-456b-9599-5e7d294433cc' source='Root-Image' target='Fender_66666'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='de13e805-81c6-4087-8721-3dce6643ec34' source='Root-Image' target='Fender'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='d8df80f8-16d9-44bc-8c5a-20d0893322a9' source='Root-Image' target='66666'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='2f536e79-1878-4e0a-a069-de9e0235dc32' source='Root-Image' target='Musical_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='3e0fd103-0a79-4d65-97f6-1f395439aa1b' source='Root-Image' target='Guitar'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='d8379554-93d4-4387-a581-046df387f8da' source='Root-Image' target='String_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='3daf2789-5657-45d3-8630-11ac9876c05a' source='Root-Image' target='String_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='3e9d1cfd-da5d-45c2-9731-7b190cb5e905' source='Root-Image' target='String_instrument_accessory'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='902b1782-a4b8-40a0-9567-f21af60dba2d' source='Root-Image' target='Guitar_accessory'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='a678ddf7-228f-4358-9382-24fc488e411c' source='Root-Image' target='Wood'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='0d8e7b53-7675-414a-942b-18c55ccec61a' source='Root-Image' target='Musical_instrument_accessory'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='1ee6516b-1fe6-4f03-bcad-f5e46c22bdbb' source='Root-Image' target='Plucked_string_instruments'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='7b411be1-22f4-4109-8135-9abe55f964cf' source='Root-Image' target='Music'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='c425d9d6-5db7-492f-b573-3ac6edee3fc0' source='Root-Image' target='Guitar_1'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_10ec7cda-5167-4dbb-92d6-f543f18cb187' source='Fender_66666' target='10ec7cda-5167-4dbb-92d6-f543f18cb187'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_a55e6b6d-3877-4e4d-98c4-f581256a1995' source='Fender_66666' target='a55e6b6d-3877-4e4d-98c4-f581256a1995'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_59cfa86b-f215-45ed-89a3-85b7b1839f74' source='Fender_66666' target='59cfa86b-f215-45ed-89a3-85b7b1839f74'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_bd3ca4c0-c12d-4e37-bfcc-1cf2258e1bed' source='Fender' target='bd3ca4c0-c12d-4e37-bfcc-1cf2258e1bed'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_726153ad-6607-4e21-89fc-dbce29a54542' source='Fender' target='726153ad-6607-4e21-89fc-dbce29a54542'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_cef531e6-52e9-48ea-941c-2ed80c447208' source='Fender' target='cef531e6-52e9-48ea-941c-2ed80c447208'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_0213fe10-df2d-4803-8669-3bae0a6dc9d4' source='66666' target='0213fe10-df2d-4803-8669-3bae0a6dc9d4'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_cd87c634-82a2-4584-97ee-df92dda3e637' source='66666' target='cd87c634-82a2-4584-97ee-df92dda3e637'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_1a6e073b-4d45-4673-a7fa-031c8288295e' source='66666' target='1a6e073b-4d45-4673-a7fa-031c8288295e'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_6fa1693c-c735-42e2-8a33-ab916a68eda1' source='Musical_instrument' target='6fa1693c-c735-42e2-8a33-ab916a68eda1'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_695934cd-7a74-424b-815b-f1bec53eddd2' source='Musical_instrument' target='695934cd-7a74-424b-815b-f1bec53eddd2'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_fccd4589-4c11-4b78-8740-e01284f916df' source='Musical_instrument' target='fccd4589-4c11-4b78-8740-e01284f916df'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_35b4753e-90e9-435f-b069-3223c6317f53' source='Guitar' target='35b4753e-90e9-435f-b069-3223c6317f53'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_f46b32a1-b6d5-4ae8-9393-0931e2bb2e48' source='Guitar' target='f46b32a1-b6d5-4ae8-9393-0931e2bb2e48'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_166703b1-7b5a-4124-b560-4a2d81d88c08' source='Guitar' target='166703b1-7b5a-4124-b560-4a2d81d88c08'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_8c200de9-2e6e-41b6-bd94-98aafe158833' source='String_instrument' target='8c200de9-2e6e-41b6-bd94-98aafe158833'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_d12adce2-db05-452b-ad9e-eda913395a22' source='String_instrument' target='d12adce2-db05-452b-ad9e-eda913395a22'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e6410054-633a-4cab-b556-4eee57ca4be6' source='String_instrument' target='e6410054-633a-4cab-b556-4eee57ca4be6'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_263a0108-f806-4114-8382-56adc3aaae15' source='String_instrument' target='263a0108-f806-4114-8382-56adc3aaae15'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_7b95f607-c8f0-44de-9358-62a9d0027119' source='String_instrument' target='7b95f607-c8f0-44de-9358-62a9d0027119'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_f0f047a2-8723-4427-923f-aca065b56f7e' source='String_instrument' target='f0f047a2-8723-4427-923f-aca065b56f7e'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_13cabf68-116c-4080-9333-6e07e580d3a5' source='String_instrument_accessory' target='13cabf68-116c-4080-9333-6e07e580d3a5'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e94e9283-8a6d-4929-ae0d-6aabad598bc0' source='String_instrument_accessory' target='e94e9283-8a6d-4929-ae0d-6aabad598bc0'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_4299f415-29ff-4163-9cf2-b8d69da7dda3' source='String_instrument_accessory' target='4299f415-29ff-4163-9cf2-b8d69da7dda3'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_209d20fd-3845-4675-ba67-9a7d10e74aec' source='Guitar_accessory' target='209d20fd-3845-4675-ba67-9a7d10e74aec'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_cdd24ba9-a7f1-49bd-8df0-7557667ba1f0' source='Guitar_accessory' target='cdd24ba9-a7f1-49bd-8df0-7557667ba1f0'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_f6da13da-3039-4594-8b5b-2be3639b41a0' source='Guitar_accessory' target='f6da13da-3039-4594-8b5b-2be3639b41a0'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_80155311-345a-4444-a1ea-c74b467fcdfd' source='Wood' target='80155311-345a-4444-a1ea-c74b467fcdfd'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_3b8dfa60-81c1-4ca9-853c-2371ef10d9a4' source='Wood' target='3b8dfa60-81c1-4ca9-853c-2371ef10d9a4'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_79bcff99-4c9f-47d7-a537-8103d523610b' source='Wood' target='79bcff99-4c9f-47d7-a537-8103d523610b'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_c1b6a96e-83cd-4a6f-823d-f504def4c1b6' source='Musical_instrument_accessory' target='c1b6a96e-83cd-4a6f-823d-f504def4c1b6'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_1cf56de3-5444-4495-a253-eb2dd887e49a' source='Musical_instrument_accessory' target='1cf56de3-5444-4495-a253-eb2dd887e49a'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_fee796e0-f72b-4456-8d10-156362678010' source='Musical_instrument_accessory' target='fee796e0-f72b-4456-8d10-156362678010'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e3807eee-91c2-49ec-8b98-18586453ec67' source='Plucked_string_instruments' target='e3807eee-91c2-49ec-8b98-18586453ec67'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e9fb175d-b3b7-46e8-8dee-4cdadfce7be5' source='Plucked_string_instruments' target='e9fb175d-b3b7-46e8-8dee-4cdadfce7be5'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_5de43c4c-61d9-4aad-917d-63ee4a8ef317' source='Plucked_string_instruments' target='5de43c4c-61d9-4aad-917d-63ee4a8ef317'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_1061fc93-a77d-40ee-82f8-5c1e33794ae2' source='Music' target='1061fc93-a77d-40ee-82f8-5c1e33794ae2'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_f60a01f1-97fe-4d1c-a0a4-785db86d41aa' source='Music' target='f60a01f1-97fe-4d1c-a0a4-785db86d41aa'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_3712d0c1-4c0a-4235-ad23-bc6e67ea1885' source='Music' target='3712d0c1-4c0a-4235-ad23-bc6e67ea1885'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_35901301-babb-48ef-9566-13c23bef356b' source='Guitar_1' target='35901301-babb-48ef-9566-13c23bef356b'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#54E0A3' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>sr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_51328115-9530-4711-8d37-a1e548f5828e' source='Guitar_1' target='51328115-9530-4711-8d37-a1e548f5828e'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_4e4fb1a4-aabe-4492-a341-15befc2b0517' source='Guitar_1' target='4e4fb1a4-aabe-4492-a341-15befc2b0517'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='9bc4488a-a6c5-473d-b77c-c84dee0dcaa1' source='Guitar_1' target='Fender_66666'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='5b36bfdb-fea6-4f4c-b1e2-618f1f8279ee' source='Guitar_1' target='Fender'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='191d962e-292f-49b8-b734-302b46adf82b' source='Guitar_1' target='66666'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='a159db68-7df9-4177-8baf-9137ec3879d1' source='Guitar_1' target='Musical_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='2d4ff75e-9909-4b60-b1a2-97c47b2febef' source='Guitar_1' target='Guitar'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='3648e5e1-ec89-48c5-abb4-a6c3b1a88343' source='Guitar_1' target='String_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='c7653013-8ced-482f-8892-4036b464f7f4' source='Guitar_1' target='String_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='eb69663e-e56b-4324-ac81-e2315a6e177c' source='Guitar_1' target='String_instrument_accessory'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='ec769c8c-d792-46a4-9878-a117b58da812' source='Guitar_1' target='Plucked_string_instruments'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='309e6940-f93a-4712-a688-d8b7f071aabb' source='Guitar_1' target='Musical_instrument_accessory'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='96c173dd-2184-4dbe-b021-ac0c40454105' source='Guitar_1' target='Guitar_accessory'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='b2b74d7a-6bcd-405c-86fb-61309a636bb5' source='Guitar_1' target='Wood'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='44096637-2db6-4eee-9b4d-adbb47a3b673' source='Guitar_1' target='Folk_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='beae3dc0-7eb4-4550-a99a-33d491628be9' source='Guitar_1' target='Guitar_1'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e07c094a-5184-4dfd-8d65-268da56843fc' source='Fender_66666' target='e07c094a-5184-4dfd-8d65-268da56843fc'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_fc2a2e7e-f2e7-4944-ae1f-e69411372dc6' source='Fender_66666' target='fc2a2e7e-f2e7-4944-ae1f-e69411372dc6'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_777462d1-2320-4719-bc63-771aa5db6ec8' source='Fender_66666' target='777462d1-2320-4719-bc63-771aa5db6ec8'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_7c4a7390-b3e2-4499-861d-4c63949cbfcc' source='Fender' target='7c4a7390-b3e2-4499-861d-4c63949cbfcc'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_31cd356f-804e-4719-bed4-0905d568020e' source='Fender' target='31cd356f-804e-4719-bed4-0905d568020e'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e50c6d1c-1d01-420b-9782-cc4a30b61c44' source='Fender' target='e50c6d1c-1d01-420b-9782-cc4a30b61c44'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_11562992-73a2-4d0a-88a2-0ccb65c22701' source='66666' target='11562992-73a2-4d0a-88a2-0ccb65c22701'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_cf72d936-ab11-4314-a67e-f960ae07f438' source='66666' target='cf72d936-ab11-4314-a67e-f960ae07f438'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_3ae6bb2b-4cba-46a5-8f93-907a29088f10' source='66666' target='3ae6bb2b-4cba-46a5-8f93-907a29088f10'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_9260b0cf-27bf-44c9-ab04-d9306f4e566a' source='Musical_instrument' target='9260b0cf-27bf-44c9-ab04-d9306f4e566a'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_b79a0e99-e5b4-42e9-a870-f90e81dfeda7' source='Musical_instrument' target='b79a0e99-e5b4-42e9-a870-f90e81dfeda7'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e1d9cb59-7668-4a1e-8a63-d9b7ed2a2883' source='Musical_instrument' target='e1d9cb59-7668-4a1e-8a63-d9b7ed2a2883'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_062e41d6-1e4c-4733-af8f-c55a930301c1' source='Guitar' target='062e41d6-1e4c-4733-af8f-c55a930301c1'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_c0b9b0d1-d64d-42bb-bea4-9258d737ca8d' source='Guitar' target='c0b9b0d1-d64d-42bb-bea4-9258d737ca8d'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_501c5dbf-ce1e-4088-9c03-c43c89409187' source='Guitar' target='501c5dbf-ce1e-4088-9c03-c43c89409187'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_90cfebd9-0bd7-4f4a-84ed-4d752ac02acb' source='String_instrument' target='90cfebd9-0bd7-4f4a-84ed-4d752ac02acb'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_972ac4cc-c24c-433b-992c-bd1544d8fbc4' source='String_instrument' target='972ac4cc-c24c-433b-992c-bd1544d8fbc4'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_4531fb52-bbe2-4aa8-bb76-a7f78515bdae' source='String_instrument' target='4531fb52-bbe2-4aa8-bb76-a7f78515bdae'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_77526491-91c0-4ea6-98e6-76de01b03462' source='String_instrument' target='77526491-91c0-4ea6-98e6-76de01b03462'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_28d9250a-707a-4009-983a-4ae6e668cf26' source='String_instrument' target='28d9250a-707a-4009-983a-4ae6e668cf26'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_8ec39148-fff9-463c-8d58-c7b3fc7f71ee' source='String_instrument' target='8ec39148-fff9-463c-8d58-c7b3fc7f71ee'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_5d0297e3-df03-415a-9923-63eb01081af3' source='String_instrument_accessory' target='5d0297e3-df03-415a-9923-63eb01081af3'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_2c9a564c-385d-424d-a1e1-826bb0fc852d' source='String_instrument_accessory' target='2c9a564c-385d-424d-a1e1-826bb0fc852d'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_3dc2b5de-52ad-4a23-96b0-29d0b5078f16' source='String_instrument_accessory' target='3dc2b5de-52ad-4a23-96b0-29d0b5078f16'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_5b047c4a-c82e-4093-b3f1-0cf58d3082c5' source='Plucked_string_instruments' target='5b047c4a-c82e-4093-b3f1-0cf58d3082c5'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_ecb4001b-a416-40ad-b77a-cb360be32deb' source='Plucked_string_instruments' target='ecb4001b-a416-40ad-b77a-cb360be32deb'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_9b1ba50e-5c46-48e7-a3d1-8137a52242ed' source='Plucked_string_instruments' target='9b1ba50e-5c46-48e7-a3d1-8137a52242ed'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_f96c4c63-a088-406c-b260-b004feb2c09c' source='Musical_instrument_accessory' target='f96c4c63-a088-406c-b260-b004feb2c09c'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_8ed5ab9e-505a-41bf-9254-d1262d6d4a57' source='Musical_instrument_accessory' target='8ed5ab9e-505a-41bf-9254-d1262d6d4a57'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_edcea750-5eab-4374-bbad-af081e9d3938' source='Musical_instrument_accessory' target='edcea750-5eab-4374-bbad-af081e9d3938'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_ae03b264-e2e8-4013-b296-7411ebcc8749' source='Guitar_accessory' target='ae03b264-e2e8-4013-b296-7411ebcc8749'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_acffe6b6-6aef-45c7-9935-638f1900158c' source='Guitar_accessory' target='acffe6b6-6aef-45c7-9935-638f1900158c'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_2d332b9a-8273-4c25-9b52-4eaaceec6b00' source='Guitar_accessory' target='2d332b9a-8273-4c25-9b52-4eaaceec6b00'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_2a06fba5-d3ac-47a2-b896-de56cb7b83f4' source='Wood' target='2a06fba5-d3ac-47a2-b896-de56cb7b83f4'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_0159de83-469f-4128-a5f6-13ecb1b10872' source='Wood' target='0159de83-469f-4128-a5f6-13ecb1b10872'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_9f59d614-2ece-466d-a118-ee22a2c13b6f' source='Wood' target='9f59d614-2ece-466d-a118-ee22a2c13b6f'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_6b03d424-5cce-43e0-851b-fa99554d7b89' source='Folk_instrument' target='6b03d424-5cce-43e0-851b-fa99554d7b89'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_358bb617-7988-4fed-9810-248d75fdec07' source='Folk_instrument' target='358bb617-7988-4fed-9810-248d75fdec07'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_079a2e74-0b96-4dab-91bc-a4dfe0734ca5' source='Folk_instrument' target='079a2e74-0b96-4dab-91bc-a4dfe0734ca5'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_899f05a1-8753-4599-8a07-5450144c148d' source='Guitar_1' target='899f05a1-8753-4599-8a07-5450144c148d'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#54E0A3' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>sr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_f9d99cce-b867-41bc-a0f1-9eb120d6c4bb' source='Guitar_1' target='f9d99cce-b867-41bc-a0f1-9eb120d6c4bb'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_2fc716f8-363b-49f8-9f86-9e33b2583d50' source='Guitar_1' target='2fc716f8-363b-49f8-9f86-9e33b2583d50'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='58a9d21b-132d-4786-b4de-d483ea1c2477' source='Guitar_1' target='Frnder'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='946bc55d-ec31-4af5-a4ce-b5f84238b136' source='Guitar_1' target='Frnder'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='292dc52d-83b9-4487-bc60-3519653f3b04' source='Guitar_1' target='Musical_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='1da03042-7403-43fd-8ef5-53276086c2f7' source='Guitar_1' target='Guitar'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='7449a5cb-1020-4abe-a1ea-264e23605981' source='Guitar_1' target='String_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='d505c29d-e823-4edb-9290-8720fa154dc5' source='Guitar_1' target='String_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='3b962f11-16b6-417d-80d4-46bf10a0dc49' source='Guitar_1' target='String_instrument_accessory'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='c16dfc60-6f0f-43cc-b4b4-f41fe420e8eb' source='Guitar_1' target='Musical_instrument_accessory'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='92463170-6742-4f9b-9f4c-78ae0d431815' source='Guitar_1' target='Plucked_string_instruments'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='8ae4e562-357a-4901-b3ec-5efc1101a06c' source='Guitar_1' target='Guitar_accessory'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='5b481eb6-7f26-4cf6-9fcd-3ae60c5e3425' source='Guitar_1' target='Wood'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='c7da2350-803f-4fc0-9297-c97cc784cea6' source='Guitar_1' target='Music'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='d20c4ea6-219b-4a09-bf92-9b4a64bee6bb' source='Guitar_1' target='Guitar_1'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_7a48b6f1-f735-4dfc-a33c-7f980aeecfd8' source='Frnder' target='7a48b6f1-f735-4dfc-a33c-7f980aeecfd8'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_392bfc8a-bfd1-4470-82d2-b9ba3203398d' source='Frnder' target='392bfc8a-bfd1-4470-82d2-b9ba3203398d'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_2880132c-0800-4975-94c9-a4e8d3da2bee' source='Frnder' target='2880132c-0800-4975-94c9-a4e8d3da2bee'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_3d6d8cd9-9007-4716-b343-58434df2ee5d' source='Frnder' target='3d6d8cd9-9007-4716-b343-58434df2ee5d'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_179ca210-984f-4df6-bb22-2b3b28078dc5' source='Frnder' target='179ca210-984f-4df6-bb22-2b3b28078dc5'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_fccc69e0-e343-45e9-a03a-afd5243d7e65' source='Frnder' target='fccc69e0-e343-45e9-a03a-afd5243d7e65'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_9c80d945-050f-4672-9eb5-b937a645cf83' source='Musical_instrument' target='9c80d945-050f-4672-9eb5-b937a645cf83'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_803c76a2-0c89-4795-a295-60a6596deac9' source='Musical_instrument' target='803c76a2-0c89-4795-a295-60a6596deac9'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_dfb05301-30b2-4bad-bf64-7ba1cb28ffdc' source='Musical_instrument' target='dfb05301-30b2-4bad-bf64-7ba1cb28ffdc'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_6fb18cb8-f2aa-43bd-89b6-7796db58bfe6' source='Guitar' target='6fb18cb8-f2aa-43bd-89b6-7796db58bfe6'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_59f3fa42-a13f-4a18-b2d5-ea2a00ff05bd' source='Guitar' target='59f3fa42-a13f-4a18-b2d5-ea2a00ff05bd'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_40174270-64e7-4a0a-88d2-bcabe6571241' source='Guitar' target='40174270-64e7-4a0a-88d2-bcabe6571241'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_b5204313-de00-4f31-ad91-49931e2d4600' source='String_instrument' target='b5204313-de00-4f31-ad91-49931e2d4600'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_1a8b238a-3b70-410d-a8d2-4430f6146584' source='String_instrument' target='1a8b238a-3b70-410d-a8d2-4430f6146584'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_29926953-0649-4dd6-a6f5-7ce82bc0b19d' source='String_instrument' target='29926953-0649-4dd6-a6f5-7ce82bc0b19d'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_54d1ed83-e8e4-4e82-b80f-f5942b497853' source='String_instrument' target='54d1ed83-e8e4-4e82-b80f-f5942b497853'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_10d19df6-910d-4b1e-bc66-2d964c2066bc' source='String_instrument' target='10d19df6-910d-4b1e-bc66-2d964c2066bc'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_7dd75a5d-6a58-4d8d-9ab9-e627abda8bce' source='String_instrument' target='7dd75a5d-6a58-4d8d-9ab9-e627abda8bce'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_c0526bce-5799-4c1f-80f3-80fa3a806bf4' source='String_instrument_accessory' target='c0526bce-5799-4c1f-80f3-80fa3a806bf4'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_aecc83e8-8ee5-4e70-92be-687e8750ca7a' source='String_instrument_accessory' target='aecc83e8-8ee5-4e70-92be-687e8750ca7a'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_71465425-8620-435b-9c45-a8d8762fb906' source='String_instrument_accessory' target='71465425-8620-435b-9c45-a8d8762fb906'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_fc02c0a6-e56e-481d-8762-1841ba8f3f46' source='Musical_instrument_accessory' target='fc02c0a6-e56e-481d-8762-1841ba8f3f46'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_3ad2b19a-2ee8-4533-ad1a-46580c385dad' source='Musical_instrument_accessory' target='3ad2b19a-2ee8-4533-ad1a-46580c385dad'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_ebbd39c6-625a-4ed9-9458-33bf377cb123' source='Musical_instrument_accessory' target='ebbd39c6-625a-4ed9-9458-33bf377cb123'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_20f7bc40-175a-4699-a858-87aa1683610a' source='Plucked_string_instruments' target='20f7bc40-175a-4699-a858-87aa1683610a'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_ec297f1c-dd76-41a9-b7dc-17ba4966dbcc' source='Plucked_string_instruments' target='ec297f1c-dd76-41a9-b7dc-17ba4966dbcc'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_d37fce16-a185-43d8-9789-7ff8d98a9501' source='Plucked_string_instruments' target='d37fce16-a185-43d8-9789-7ff8d98a9501'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_53b7c66d-4104-44f8-957d-9fb0d6f3a93c' source='Guitar_accessory' target='53b7c66d-4104-44f8-957d-9fb0d6f3a93c'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_8ca36cf9-1926-4072-b2b4-44db90b07a6d' source='Guitar_accessory' target='8ca36cf9-1926-4072-b2b4-44db90b07a6d'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_d28eb34c-f4cc-48fe-8148-b16b1e6991b8' source='Guitar_accessory' target='d28eb34c-f4cc-48fe-8148-b16b1e6991b8'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_fd9bc661-40c5-4c05-80ae-38d49029bf15' source='Wood' target='fd9bc661-40c5-4c05-80ae-38d49029bf15'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_db493109-344d-440e-8ced-dded9bcda9cd' source='Wood' target='db493109-344d-440e-8ced-dded9bcda9cd'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_a9e619ef-bb03-4975-be0c-3294601fd13b' source='Wood' target='a9e619ef-bb03-4975-be0c-3294601fd13b'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_26342ab4-b7d0-41ca-9517-9a5e96bdeeaf' source='Music' target='26342ab4-b7d0-41ca-9517-9a5e96bdeeaf'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_aecd6775-ddd0-415e-b781-bb969af6704c' source='Music' target='aecd6775-ddd0-415e-b781-bb969af6704c'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_9eb5e825-72a7-4525-9358-cbc928e42528' source='Music' target='9eb5e825-72a7-4525-9358-cbc928e42528'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_ad7eeca3-ad67-4781-b5ab-a66ed0aab31a' source='Guitar_1' target='ad7eeca3-ad67-4781-b5ab-a66ed0aab31a'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#54E0A3' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>sr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_4b61772b-3d45-4a71-a083-171ab2557176' source='Guitar_1' target='4b61772b-3d45-4a71-a083-171ab2557176'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_d4710ecb-d461-4b77-94bd-a8890db114a6' source='Guitar_1' target='d4710ecb-d461-4b77-94bd-a8890db114a6'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e7da4af2-0e0e-482c-af7c-a8b54400a2d2' source='Guitar_1' target='666666'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='a644f958-8188-4d43-b4b3-e98c448c04ee' source='Guitar_1' target='666666'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='49d1a246-02ee-4d0d-8a16-0f139ef2ae9a' source='Guitar_1' target='Musical_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='3deaf90b-0f66-4ead-bbf2-be737cc43bbe' source='Guitar_1' target='Guitar'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='52c944cf-14da-41c7-b602-68202d83ea1e' source='Guitar_1' target='String_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='58257c0a-4363-4b0e-9425-865a644cde3b' source='Guitar_1' target='Musical_instrument_accessory'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='6ae6ba61-357b-4426-81d6-1d8618e5f936' source='Guitar_1' target='String_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='f87a1897-418d-49f0-86fa-8fddc0e16808' source='Guitar_1' target='String_instrument_accessory'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='0ce03e04-5971-468c-9c03-78ba86787e31' source='Guitar_1' target='Plucked_string_instruments'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='7033a887-e56a-45b4-bd73-068fcef7e9ce' source='Guitar_1' target='Guitar_accessory'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='41fc4cf1-695c-48f4-8b05-f49bf785686c' source='Guitar_1' target='Wood'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='07a6c633-67b4-4722-b54a-334e17f5a908' source='Guitar_1' target='Folk_instrument'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='882510c2-0573-4c80-a903-64ed1ceeeca0' source='Guitar_1' target='Guitar_1'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>child</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_43ba0bb3-1293-4e54-804e-f0424941c6ec' source='666666' target='43ba0bb3-1293-4e54-804e-f0424941c6ec'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_9bf082a9-cda7-49ba-82a4-37c11561a992' source='666666' target='9bf082a9-cda7-49ba-82a4-37c11561a992'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e4c85254-c854-4577-9f87-c2912b7e8358' source='666666' target='e4c85254-c854-4577-9f87-c2912b7e8358'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_609aa433-c272-4917-ada2-84ced92321c5' source='666666' target='609aa433-c272-4917-ada2-84ced92321c5'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_ba635111-5d9d-4162-a2be-2775abff44f5' source='666666' target='ba635111-5d9d-4162-a2be-2775abff44f5'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_d93d7925-103a-4245-a630-52caea681f4b' source='666666' target='d93d7925-103a-4245-a630-52caea681f4b'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_fd503b10-2e3d-448b-b2f4-4e2dde6f95ed' source='Musical_instrument' target='fd503b10-2e3d-448b-b2f4-4e2dde6f95ed'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_324f59e2-671d-47d4-9bb8-ce120aff5716' source='Musical_instrument' target='324f59e2-671d-47d4-9bb8-ce120aff5716'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_b709b7b3-c2ed-4c8c-950f-b0294123038d' source='Musical_instrument' target='b709b7b3-c2ed-4c8c-950f-b0294123038d'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_f6c02651-ff61-422f-a76e-0beb5080b4bb' source='Guitar' target='f6c02651-ff61-422f-a76e-0beb5080b4bb'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_19663b2e-c445-4b91-bbdd-12782fc352af' source='Guitar' target='19663b2e-c445-4b91-bbdd-12782fc352af'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_a674ad42-2c38-4caa-a9c4-171a3a7f76db' source='Guitar' target='a674ad42-2c38-4caa-a9c4-171a3a7f76db'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e644866a-f215-4dee-b040-cfd1afd530f0' source='String_instrument' target='e644866a-f215-4dee-b040-cfd1afd530f0'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_f9f5ce73-353d-4f89-92eb-7bfb1724f516' source='String_instrument' target='f9f5ce73-353d-4f89-92eb-7bfb1724f516'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_20d1c3d7-13e5-4756-bd38-0fdadffff907' source='String_instrument' target='20d1c3d7-13e5-4756-bd38-0fdadffff907'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_bf567af1-d70f-450f-b3c5-3a7ab93fbacf' source='Musical_instrument_accessory' target='bf567af1-d70f-450f-b3c5-3a7ab93fbacf'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_a14a6411-4fae-4d3c-a98d-d3d8879b2dbc' source='Musical_instrument_accessory' target='a14a6411-4fae-4d3c-a98d-d3d8879b2dbc'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_3b8edb73-f53b-48f1-b6a1-fe8a46392a52' source='Musical_instrument_accessory' target='3b8edb73-f53b-48f1-b6a1-fe8a46392a52'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_27c82edd-7f33-45bb-841f-acd116e57525' source='String_instrument' target='27c82edd-7f33-45bb-841f-acd116e57525'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_9fa341d5-85f4-4b0b-ab7f-d627e71d1764' source='String_instrument' target='9fa341d5-85f4-4b0b-ab7f-d627e71d1764'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_88e85985-5338-446c-8456-9348e7f7aa9d' source='String_instrument' target='88e85985-5338-446c-8456-9348e7f7aa9d'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_6bcc02f3-934b-4ce9-bd19-ebfe2a7095b3' source='String_instrument_accessory' target='6bcc02f3-934b-4ce9-bd19-ebfe2a7095b3'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_19d7be19-10da-4d94-89cd-87130f32763a' source='String_instrument_accessory' target='19d7be19-10da-4d94-89cd-87130f32763a'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_cebf1741-ca54-44f4-87ff-67d45b3f6e00' source='String_instrument_accessory' target='cebf1741-ca54-44f4-87ff-67d45b3f6e00'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_d245102a-c1cc-492a-adec-8dfc021dacfc' source='Plucked_string_instruments' target='d245102a-c1cc-492a-adec-8dfc021dacfc'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_2c639a4b-066f-4c07-b327-80117e519bc9' source='Plucked_string_instruments' target='2c639a4b-066f-4c07-b327-80117e519bc9'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_cae9f26b-e4c4-4dec-be72-10059b093869' source='Plucked_string_instruments' target='cae9f26b-e4c4-4dec-be72-10059b093869'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_b22a07d6-388d-4d8a-95cf-8b13d35e0308' source='Guitar_accessory' target='b22a07d6-388d-4d8a-95cf-8b13d35e0308'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e07bfd7f-1788-44b4-bb03-ff6d09d18afa' source='Guitar_accessory' target='e07bfd7f-1788-44b4-bb03-ff6d09d18afa'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_4e649a00-8311-4314-8fb1-f4673782533d' source='Guitar_accessory' target='4e649a00-8311-4314-8fb1-f4673782533d'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_ce518ca1-c34f-49f5-80be-36ba917c0d14' source='Wood' target='ce518ca1-c34f-49f5-80be-36ba917c0d14'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_2bb4f64c-4144-4e94-873a-116151540748' source='Wood' target='2bb4f64c-4144-4e94-873a-116151540748'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_2e94b24b-7cd8-4711-9e7d-ab3f3637d1e0' source='Wood' target='2e94b24b-7cd8-4711-9e7d-ab3f3637d1e0'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_11752fa0-a028-4ac1-8dc0-72fc12dc6bc3' source='Folk_instrument' target='11752fa0-a028-4ac1-8dc0-72fc12dc6bc3'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E0A954' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>ta</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e1e48be6-c7f1-4d75-b657-5b2ad3af44ea' source='Folk_instrument' target='e1e48be6-c7f1-4d75-b657-5b2ad3af44ea'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#E09BFE' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>cr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_d9ae83c8-a098-4473-aea3-44525720808f' source='Folk_instrument' target='d9ae83c8-a098-4473-aea3-44525720808f'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_7f573f25-93c9-4436-81e5-afc018a66a8e' source='Guitar_1' target='7f573f25-93c9-4436-81e5-afc018a66a8e'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#54E0A3' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>sr</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_6dd61027-0b90-4314-98ea-4b4e4c7c01f8' source='Guitar_1' target='6dd61027-0b90-4314-98ea-4b4e4c7c01f8'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FE9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>w</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e402293c-f4fe-4aa9-9e93-2bdc92dd6906' source='Root-Image' target='e402293c-f4fe-4aa9-9e93-2bdc92dd6906'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FA9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>content</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_909b49eb-39bb-4985-b1c5-696ac6b2d087' source='e402293c-f4fe-4aa9-9e93-2bdc92dd6906' target='909b49eb-39bb-4985-b1c5-696ac6b2d087'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FA9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>gm</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='gmloc_Camera' source='909b49eb-39bb-4985-b1c5-696ac6b2d087' target='GM_Camera'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#000000' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>Attribute</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_f08dfe4b-3061-480e-9b2c-1057eac54800' source='e402293c-f4fe-4aa9-9e93-2bdc92dd6906' target='f08dfe4b-3061-480e-9b2c-1057eac54800'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FA9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>location</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_b0f9ca3a-896a-4c15-8135-f54759bfad87' source='e402293c-f4fe-4aa9-9e93-2bdc92dd6906' target='b0f9ca3a-896a-4c15-8135-f54759bfad87'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FA9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>location</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+<edge id='e_e458975c-e07f-48bb-b854-bb43171c50f1' source='e402293c-f4fe-4aa9-9e93-2bdc92dd6906' target='e458975c-e07f-48bb-b854-bb43171c50f1'>
+		<data key='e1'>
+		<y:PolyLineEdge>
+			<y:Path sx='0.0' sy='0.0' tx='0.0' ty='0.0'/>
+			<y:LineStyle color='#FA9BEC' type='line' width='1.0'/>
+			<y:Arrows source='none' target='standard'/>
+			<y:EdgeLabel alignment='center'>location</y:EdgeLabel>
+		</y:PolyLineEdge>
+ </data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,15 @@
+﻿Default MPEG7;SW Base MPEG7
+VideoId;/Mpeg7/Description/MultimediaContent/Video/@id
+MediaUri;/Mpeg7/Description/MultimediaContent/Video/MediaLocator/MediaUri
+CreationTitle;/Mpeg7/Description/MultimediaContent/Video/CreationInformation/Creation/Title
+CreationAbstract;/Mpeg7/Description/MultimediaContent/Video/CreationInformation/Creation/Abstract/FreeTextAnnotation
+CreationCreator;/Mpeg7/Description/MultimediaContent/Video/CreationInformation/Creation/Creator/Role/Name
+CreationCoordinatesName;None
+CreationCoordinatesDate;/Mpeg7/Description/MultimediaContent/Video/CreationInformation/Creation/CreationCoordinates/Date/TimePoint
+AssetMediaTimePoint;/Mpeg7/Description/MultimediaContent/Video/MediaTime/MediaTimePoint
+AssetMediaDuration;/Mpeg7/Description/MultimediaContent/Video/MediaTime/MediaDuration
+SceneId;/Mpeg7/Description/MultimediaContent[i]/Video/TemporalDecomposition/VideoSegment/@id
+SceneMediaTimePoint;/Mpeg7/Description/MultimediaContent[i]/Video/TemporalDecomposition/VideoSegment/MediaTime/MediaTimePoint
+SceneMediaDuration;/Mpeg7/Description/MultimediaContent[i]/Video/TemporalDecomposition/VideoSegment/MediaTime/MediaDuration
+TextAnnotation;/Mpeg7/Description/MultimediaContent[i]/Video/TemporalDecomposition/VideoSegment/TextAnnotation/FreeTextAnnotation
+KeywordAnnotation;None
