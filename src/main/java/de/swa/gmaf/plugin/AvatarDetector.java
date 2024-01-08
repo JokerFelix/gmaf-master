@@ -35,7 +35,7 @@ public class AvatarDetector implements GMAF_Plugin {
 			String command0 = "cd yolov7\\";
 			String command1 = "rmdir /s /q runs\\detect";
 			String command2 = "yolodep\\bin\\activate";
-			String command3 = "python detect.py --weights best.pt --conf 0.48 --img-size 640 --source " + f.getAbsolutePath() +" --save-txt";
+			String command3 = "python detect.py --weights best.pt --conf 0.245 --img-size 640 --source " + f.getAbsolutePath() +" --save-txt --agnostic-nms --save-conf";
 			String command = String.join(" && ",command0, command1, command2, command3);
 			String[] cmd = {"cmd.exe", "/C", command};
 			process = new ProcessBuilder(cmd).start();
@@ -44,7 +44,7 @@ public class AvatarDetector implements GMAF_Plugin {
 			String command0 = "cd yolov7/";
 			String command1 = "rm -rf runs/detect";
 			String command2 = "source yolodep/bin/activate";
-			String command3 = "python detect.py --weights best.pt --conf 0.48 --img-size 640 --source " + f.getAbsolutePath() +" --save-txt";
+			String command3 = "python detect.py --weights best.pt --conf 0.245 --img-size 640 --source " + f.getAbsolutePath() +" --save-txt --agnostic-nms --save-conf";
 			String command = String.join(" && ", command0, command1, command2, command3);
 			String[] cmd = {"/bin/bash", "-c", command};
 			process = new ProcessBuilder(cmd).start();
