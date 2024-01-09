@@ -1,15 +1,22 @@
 package de.swa.gmaf.plugin;
 
 import java.io.File;
+import java.io.FileReader;
 import java.io.FileOutputStream;
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.IOException;
 
+import javax.imageio.ImageIO;
+
+import java.awt.image.BufferedImage;
+
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.Vector;
+import java.util.Arrays;
+import java.util.ArrayList;
 
 import de.swa.gmaf.GMAF;
 import de.swa.mmfg.MMFG;
@@ -53,10 +60,48 @@ public class AvatarDetector implements GMAF_Plugin {
 		}
 
 		int exitCode = process.waitFor();
+		// Make sure detect.py worked then import, convert and add to mmfg
 		if (exitCode == 0) {
+			System.out.println(fv);
+			// Avatars Node
+			Node avatars = new Node();
+			avatars.setName("Avatars");
+			avatars.setValue("Test");
+			fv.addNode(avatars);
+
+			// Get dimensions of the original image.
+			BufferedImage imageInput = ImageIO.read(f);
+			int width = imageInput.getWidth();
+			int height = imageInput.getHeight();
+			System.out.println("Width: " + width + " pixels");
+			System.out.println("Height: " + height + " pixels");
+			
+			// Read from last run in yolov7/runs/detect/exp/labels/filename.txt
+			String fileDetections = "yolov7/runs/detect/exp/labels/" 
+				+ stripExtension(f.getName())
+				+ ".txt";
+			BufferedReader reader = new BufferedReader(new FileReader(fileDetections));
+			String line;
+			while ((line = reader.readLine()) != null) {
+				// Split by space seperator.
+				Node avatar = new Node("Avatar", fv);
+				System.out.println(avatar);
+				avatars.addChildNode(avatar);
+
+				String[] words = line.split(" ");
+				if (words[0] == "0") {
+					Node child0 = new Node();
+					child0.setName("HumanAvatar");
+					avatar.addChildNode(child0);  
+				} else {
+					Node child1 = new Node();
+					child1.setName("NonHumanAvatar");
+					avatar.addChildNode(child1);
+				}
+			}
+	
 			System.out.println("Commands executed successfully");
-			// Make sure detect.py is adapted to --save-txt in matching format
-			// Read from the file of the last run in yolov7/runs/detect/exp/labels/filename.txt
+			
 		} else {
 			System.out.println("Error executing commands");
 		}
@@ -151,4 +196,15 @@ public class AvatarDetector implements GMAF_Plugin {
 	public boolean providesRecoursiveData() {
 		return false;
 	}
+	
+	private static String stripExtension(String filename) {
+		int dotIndex = filename.lastIndexOf(".");
+		// Checks if dot is not the first or last char, then takes last dot.
+		if (dotIndex > 0 && dotIndex < filename.length() - 1) {
+			return filename.substring(0, dotIndex);
+		}
+		// Returns original filename if there is no extension.
+		return filename;
+	}
+
 }

@@ -7,7 +7,7 @@
         <de.swa.mmfg.Weight>
           <context>
             <name>Default</name>
-            <id>2f3a4805-d73f-4129-b126-a6982e6065c2</id>
+            <id>dca3313c-21c4-454f-a249-73f571dcf07b</id>
           </context>
           <weight>0.5</weight>
         </de.swa.mmfg.Weight>
@@ -21,7 +21,7 @@
   </nodes>
   <timeranges/>
   <generalMetadata>
-    <id>06a4d387-b01c-42d1-b8eb-b9186a2c1e79</id>
+    <id>2b6958d4-7062-42c1-8739-dc90fde5c628</id>
     <longitude>0</longitude>
     <latitude>0</latitude>
     <aperture>0.0</aperture>
