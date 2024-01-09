@@ -64,10 +64,8 @@ public class AvatarDetector implements GMAF_Plugin {
 		if (exitCode == 0) {
 			System.out.println(fv);
 			// Avatars Node
-			Node avatars = new Node();
-			avatars.setName("Avatars");
-			avatars.setValue("Test");
-			fv.addNode(avatars);
+			Node avatars = new Node("Avatars", fv);
+			System.out.println(avatars==null);
 
 			// Get dimensions of the original image.
 			BufferedImage imageInput = ImageIO.read(f);
@@ -86,6 +84,7 @@ public class AvatarDetector implements GMAF_Plugin {
 				// Split by space seperator.
 				Node avatar = new Node("Avatar", fv);
 				System.out.println(avatar);
+				System.out.println(avatar==null);
 				avatars.addChildNode(avatar);
 
 				String[] words = line.split(" ");

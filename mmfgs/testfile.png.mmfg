@@ -7,7 +7,7 @@
         <de.swa.mmfg.Weight>
           <context>
             <name>Default</name>
-            <id>dca3313c-21c4-454f-a249-73f571dcf07b</id>
+            <id>e27f6ff7-2cef-4275-9874-96dfea855198</id>
           </context>
           <weight>0.5</weight>
         </de.swa.mmfg.Weight>
@@ -21,7 +21,7 @@
   </nodes>
   <timeranges/>
   <generalMetadata>
-    <id>2b6958d4-7062-42c1-8739-dc90fde5c628</id>
+    <id>5ec0734d-656d-4d8c-abd7-690668e73fd2</id>
     <longitude>0</longitude>
     <latitude>0</latitude>
     <aperture>0.0</aperture>
@@ -45,6 +45,182 @@
   <allNodes>
     <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node"/>
     <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>Avatars</name>
+      <childNodes>
+        <de.swa.mmfg.Node>
+          <name>Avatar</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>NonHumanAvatar</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships/>
+              <assetLinks/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Avatar</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>NonHumanAvatar</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships/>
+              <assetLinks/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Avatar</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>NonHumanAvatar</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships/>
+              <assetLinks/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Avatar</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>NonHumanAvatar</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships/>
+              <assetLinks/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>Avatar</name>
+          <childNodes>
+            <de.swa.mmfg.Node>
+              <name>NonHumanAvatar</name>
+              <childNodes/>
+              <weights>
+                <de.swa.mmfg.Weight>
+                  <context reference="../../../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+                  <weight>0.5</weight>
+                </de.swa.mmfg.Weight>
+              </weights>
+              <technicalAttributes/>
+              <semanticRelationships/>
+              <compositionRelationships/>
+              <assetLinks/>
+            </de.swa.mmfg.Node>
+          </childNodes>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes/>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+      </childNodes>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node[2]"/>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node[2]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node[3]"/>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node[4]"/>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node[4]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node[5]"/>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node[5]/childNodes/de.swa.mmfg.Node"/>
   </allNodes>
   <collectionElements/>
 </de.swa.mmfg.MMFG>
