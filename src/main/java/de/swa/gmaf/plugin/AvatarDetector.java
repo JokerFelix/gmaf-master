@@ -9,7 +9,6 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 
 import javax.imageio.ImageIO;
-
 import java.awt.image.BufferedImage;
 
 import java.net.URL;
@@ -21,6 +20,9 @@ import java.util.ArrayList;
 import de.swa.gmaf.GMAF;
 import de.swa.mmfg.MMFG;
 import de.swa.mmfg.Node;
+import de.swa.mmfg.Context;
+import de.swa.mmfg.TechnicalAttribute;
+import de.swa.mmfg.Weight;
 
 /** automated avatar detection **/
 public class AvatarDetector implements GMAF_Plugin {
@@ -62,18 +64,17 @@ public class AvatarDetector implements GMAF_Plugin {
 		int exitCode = process.waitFor();
 		// Make sure detect.py worked then import, convert and add to mmfg
 		if (exitCode == 0) {
-			System.out.println(fv);
+			// Load image to read dimensions.
+			BufferedImage image = ImageIO.read(f);
+			int width = image.getWidth();
+			int height = image.getHeight();
+			System.out.println("Input Image Dimensions: ");
+			System.out.println("Width: " + width + "pixels");
+			System.out.println("Height: " + height + "pixels");
+
 			// Avatars Node
 			Node avatars = new Node("Avatars", fv);
-			System.out.println(avatars==null);
 
-			// Get dimensions of the original image.
-			BufferedImage imageInput = ImageIO.read(f);
-			int width = imageInput.getWidth();
-			int height = imageInput.getHeight();
-			System.out.println("Width: " + width + " pixels");
-			System.out.println("Height: " + height + " pixels");
-			
 			// Read from last run in yolov7/runs/detect/exp/labels/filename.txt
 			String fileDetections = "yolov7/runs/detect/exp/labels/" 
 				+ stripExtension(f.getName())
@@ -82,104 +83,39 @@ public class AvatarDetector implements GMAF_Plugin {
 			String line;
 			while ((line = reader.readLine()) != null) {
 				// Split by space seperator.
-				Node avatar = new Node("Avatar", fv);
-				System.out.println(avatar);
-				System.out.println(avatar==null);
-				avatars.addChildNode(avatar);
-
 				String[] words = line.split(" ");
-				if (words[0] == "0") {
-					Node child0 = new Node();
-					child0.setName("HumanAvatar");
-					avatar.addChildNode(child0);  
+				Node avatar; 
+				if (words[0].equals("0")) {
+					avatar = new Node("HumanAvatar", fv);
 				} else {
-					Node child1 = new Node();
-					child1.setName("NonHumanAvatar");
-					avatar.addChildNode(child1);
+					avatar = new Node("NonHumanAvatar", fv);
 				}
+
+				TechnicalAttribute tecAt = new TechnicalAttribute(); 
+				tecAt.setRelative_x(convertRelative(words[1], width));
+				tecAt.setRelative_y(convertRelative(words[2], width));
+				tecAt.setHeight(convertRelative(words[4], width));
+				tecAt.setWidth(convertRelative(words[3], width));
+				tecAt.setSharpness(1.0f);
+				tecAt.setBlurryness(0.0f);
+				avatar.addTechnicalAttribute(tecAt);
+				
+				Context gmafContext = new Context();
+				gmafContext.setName("Confidence");
+				Weight weight = new Weight(gmafContext, Float.parseFloat(words[5]));
+				avatar.addWeight(weight);
+
+				avatars.addChildNode(avatar);
 			}
 	
-			System.out.println("Commands executed successfully");
+			System.out.println("Detection and MMFG construction done.\n");
 			
 		} else {
-			System.out.println("Error executing commands");
+			System.out.println("Error executing commands\n");
 		}
 		} catch (IOException | InterruptedException e) {
 			e.printStackTrace();
 		}
-		/*
-		try {
-			System.out.println("AvatarDetector process...");
-			String[] cmd = {"python3", "detect.py"};
-			Process process = Runtime.getRuntime().exec(cmd);
-			InputStream inputStream = process.getInputStream();
-			BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
-			StringBuilder output = new StringBuilder();
-			String line;
-
-			// Read from the input stream and append to the StringBuilder
-			while ((line = reader.readLine()) != null) {
-				output.append(line).append(System.lineSeparator());
-			}
-
-			// Convert the StringBuilder to a String
-			String result = output.toString();
-
-			// Close the resources
-			reader.close();
-			inputStream.close();
-
-			// Output stored in result variable
-			System.out.println("Command Output: \n" + result);
-		} 
-		catch (Exception x) {
-			x.printStackTrace();
-		}
-
-		if (!f.exists()) {
-			// create the video out of the bytes
-			try {
-				f = new File("temp/" + System.currentTimeMillis() + ".mp4");
-				FileOutputStream fout = new FileOutputStream(f);
-				fout.write(bytes);
-				fout.close();
-			}
-			catch (Exception x) {
-				x.printStackTrace();
-			}
-		}
-		if (f.exists()) {
-			// create folder for the scene screenshots
-			File scene_screenshots = new File("temp/" + f.getName() + "_Scenes");
-			scene_screenshots.mkdirs();
-			String[] cmd = {"ffmpeg", "-i", 
-					f.getAbsolutePath(), 
-					"-vf", "select='gt(scene\\,0,4)'", 
-					"-vsync", "vfr", 
-					"temp/" + f.getName() + "_Scenes/frame_%d.png"};
-			try {
-				Runtime.getRuntime().exec(cmd);
-				
-				File[] fs = new File("temp/" + f.getName() + "_Scenes").listFiles();
-				GMAF gmaf = new GMAF();
-				for (File fi : fs) {
-					MMFG sceneMMFG = gmaf.processAsset(fi);
-					String name = fi.getName();
-					String timecode = name.substring(name.indexOf("_"), name.indexOf("."));
-					Node tcNode = new Node(timecode, fv);
-					for (Node n : sceneMMFG.getNodes()) {
-						tcNode.addChildNode(n);
-						nodes.add(n);
-					}
-					fv.addNode(tcNode);
-					nodes.add(tcNode);
-				}
-			}
-			catch (Exception x) {
-				x.printStackTrace();
-			}
-		}
-	*/
 	}
 
 	Vector<Node> nodes = new Vector<Node>();
@@ -206,4 +142,9 @@ public class AvatarDetector implements GMAF_Plugin {
 		return filename;
 	}
 
+	private static int convertRelative(String a, int b) {
+		int result;
+		float fa = Float.parseFloat(a);
+		return result = (int) (fa * b);
+	}
 }

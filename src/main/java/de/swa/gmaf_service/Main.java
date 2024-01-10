@@ -27,21 +27,21 @@ public class Main {
 	public static void main(String[] args) throws InterruptedException, java.io.IOException {
 		Scanner sc = new Scanner(System.in);
 		while(true) {
-			System.out.println("To cancel, enter nothing or exit.");
+			System.out.println("To cancel, keep empty or type return 'exit'.");
 			System.out.print("Enter name of file, absolute or relative path: ");
 			String filepath = sc.nextLine();
 			if (filepath.isEmpty() || filepath.toLowerCase() == "exit") break;
 
 			GMAF gmaf = new GMAF();
 			try {
-				File f = new File("testfile.png");
+				File f = new File(filepath);
 				FileInputStream fs = new FileInputStream(f);
 				byte[] bytes = fs.readAllBytes();
+				System.out.println("\nFile to process: " + f.getAbsolutePath());
 				MMFG fv = gmaf.processAsset(bytes, f.getName(), 
 							"system", Configuration.getInstance().getMaxRecursions(),
 						Configuration.getInstance().getMaxNodes(), f.getName(), f);
-				System.out.println("ProcessCommand: " + f.getName());
-				//LogPanel.getCurrentInstance().addToLog("MMFG created");
+				System.out.println("Detection and MMFG construction done. Saving..");
 
 				String xml = FeatureVectorBuilder.flatten(fv, new XMLEncodeDecode());
 				RandomAccessFile rf = new RandomAccessFile(
@@ -51,21 +51,15 @@ public class Main {
 				rf.writeBytes(xml);
 				rf.close();
 
-				//LogPanel.getCurrentInstance().addToLog("MMFG exported to " + 
-				//		Configuration.getInstance().getMMFGRepo());
 				GraphCode gc = GraphCodeGenerator.generate(fv);
 				GraphCodeIO.write(gc, new File(
 						Configuration.getInstance().getGraphCodeRepository() + File.separatorChar + f.getName() + ".gc"));
-				//MMFGCollection.getInstance().replaceMMFGInCollection(fv, f);
-				System.out.println("Completed.");
+				System.out.println("\nEntire file processing done.\n");
 
 
-				//LogPanel.getCurrentInstance().addToLog("GraphCode exported to " 
-				//		+ Configuration.getInstance().getGraphCodeRepository());
 			}
 			catch (Exception x) {
 				x.printStackTrace();
-				//LogPanel.getCurrentInstance().addToLog("error " + x.getMessage());
 			}
 		}
 	}
