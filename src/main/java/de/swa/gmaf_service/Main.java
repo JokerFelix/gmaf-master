@@ -27,7 +27,7 @@ public class Main {
 	public static void main(String[] args) throws InterruptedException, java.io.IOException {
 		Scanner sc = new Scanner(System.in);
 		while(true) {
-			System.out.println("To cancel, keep empty or type return 'exit'.");
+			System.out.println("To cancel, keep empty or type 'exit', hit return.");
 			System.out.print("Enter name of file, absolute or relative path: ");
 			String filepath = sc.nextLine();
 			if (filepath.isEmpty() || filepath.toLowerCase() == "exit") break;
