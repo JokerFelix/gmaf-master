@@ -1,0 +1,144 @@
+<de.swa.mmfg.MMFG>
+  <nodes>
+    <de.swa.mmfg.Node>
+      <name>Root-Asset</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context>
+            <name>Default</name>
+            <id>7ce55abe-6980-46f0-b533-6e4357f6a896</id>
+          </context>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+  </nodes>
+  <timeranges/>
+  <generalMetadata>
+    <id>859ffbcf-d668-4424-854e-cc207179abff</id>
+    <longitude>0</longitude>
+    <latitude>0</latitude>
+    <aperture>0.0</aperture>
+    <exposure>0.0</exposure>
+    <focalLength>0</focalLength>
+    <resolution>0</resolution>
+    <width>0</width>
+    <height>0</height>
+    <fileSize>0</fileSize>
+    <iso>0</iso>
+    <shutterSpeed>0</shutterSpeed>
+    <fileName>10_Video_20_00_00_13.png</fileName>
+  </generalMetadata>
+  <locations>
+    <de.swa.mmfg.Location>
+      <type>40</type>
+      <name>10_Video_20_00_00_13.png</name>
+    </de.swa.mmfg.Location>
+  </locations>
+  <currentNode reference="../nodes/de.swa.mmfg.Node"/>
+  <allNodes>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>Avatars</name>
+      <childNodes>
+        <de.swa.mmfg.Node>
+          <name>HumanAvatar</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+            <de.swa.mmfg.Weight>
+              <context>
+                <name>Confidence</name>
+              </context>
+              <weight>0.762989</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>74</relative__x>
+              <relative__y>643</relative__y>
+              <width>94</width>
+              <height>327</height>
+              <sharpness>1.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>HumanAvatar</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+            <de.swa.mmfg.Weight>
+              <context>
+                <name>Confidence</name>
+              </context>
+              <weight>0.91468</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>543</relative__x>
+              <relative__y>843</relative__y>
+              <width>167</width>
+              <height>542</height>
+              <sharpness>1.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+      </childNodes>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node[2]"/>
+  </allNodes>
+  <collectionElements/>
+</de.swa.mmfg.MMFG>

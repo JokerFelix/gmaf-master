@@ -1,0 +1,98 @@
+<de.swa.mmfg.MMFG>
+  <nodes>
+    <de.swa.mmfg.Node>
+      <name>Root-Asset</name>
+      <childNodes/>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context>
+            <name>Default</name>
+            <id>7ce55abe-6980-46f0-b533-6e4357f6a896</id>
+          </context>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+  </nodes>
+  <timeranges/>
+  <generalMetadata>
+    <id>660fd162-97ac-4277-a303-80e9af53fb31</id>
+    <longitude>0</longitude>
+    <latitude>0</latitude>
+    <aperture>0.0</aperture>
+    <exposure>0.0</exposure>
+    <focalLength>0</focalLength>
+    <resolution>0</resolution>
+    <width>0</width>
+    <height>0</height>
+    <fileSize>0</fileSize>
+    <iso>0</iso>
+    <shutterSpeed>0</shutterSpeed>
+    <fileName>13_Video_09_06_28_95.png</fileName>
+  </generalMetadata>
+  <locations>
+    <de.swa.mmfg.Location>
+      <type>40</type>
+      <name>13_Video_09_06_28_95.png</name>
+    </de.swa.mmfg.Location>
+  </locations>
+  <currentNode reference="../nodes/de.swa.mmfg.Node"/>
+  <allNodes>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node reference="../../nodes/de.swa.mmfg.Node"/>
+    <de.swa.mmfg.Node>
+      <name>Avatars</name>
+      <childNodes>
+        <de.swa.mmfg.Node>
+          <name>HumanAvatar</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+            <de.swa.mmfg.Weight>
+              <context>
+                <name>Confidence</name>
+              </context>
+              <weight>0.810501</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>987</relative__x>
+              <relative__y>622</relative__y>
+              <width>147</width>
+              <height>227</height>
+              <sharpness>1.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships/>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+      </childNodes>
+      <weights>
+        <de.swa.mmfg.Weight>
+          <context reference="../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+          <weight>0.5</weight>
+        </de.swa.mmfg.Weight>
+      </weights>
+      <technicalAttributes/>
+      <semanticRelationships/>
+      <compositionRelationships/>
+      <assetLinks/>
+      <fv reference="../../.."/>
+    </de.swa.mmfg.Node>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node"/>
+  </allNodes>
+  <collectionElements/>
+</de.swa.mmfg.MMFG>

@@ -7,7 +7,7 @@
         <de.swa.mmfg.Weight>
           <context>
             <name>Default</name>
-            <id>a3068d1c-050f-4fbd-8661-9b9911c82bab</id>
+            <id>7ce55abe-6980-46f0-b533-6e4357f6a896</id>
           </context>
           <weight>0.5</weight>
         </de.swa.mmfg.Weight>
@@ -21,7 +21,7 @@
   </nodes>
   <timeranges/>
   <generalMetadata>
-    <id>41ad49cd-1848-4526-aed2-52a7731b6eb9</id>
+    <id>68811c8b-406f-4a29-bc50-2eb447c96906</id>
     <longitude>0</longitude>
     <latitude>0</latitude>
     <aperture>0.0</aperture>
@@ -33,12 +33,12 @@
     <fileSize>0</fileSize>
     <iso>0</iso>
     <shutterSpeed>0</shutterSpeed>
-    <fileName>test.png</fileName>
+    <fileName>04_Video_06_00_11_93.png</fileName>
   </generalMetadata>
   <locations>
     <de.swa.mmfg.Location>
       <type>40</type>
-      <name>test.png</name>
+      <name>04_Video_06_00_11_93.png</name>
     </de.swa.mmfg.Location>
   </locations>
   <currentNode reference="../nodes/de.swa.mmfg.Node"/>
@@ -49,7 +49,7 @@
       <name>Avatars</name>
       <childNodes>
         <de.swa.mmfg.Node>
-          <name>HumanAvatar</name>
+          <name>NonHumanAvatar</name>
           <childNodes/>
           <weights>
             <de.swa.mmfg.Weight>
@@ -60,15 +60,15 @@
               <context>
                 <name>Confidence</name>
               </context>
-              <weight>0.291125</weight>
+              <weight>0.250216</weight>
             </de.swa.mmfg.Weight>
           </weights>
           <technicalAttributes>
             <de.swa.mmfg.TechnicalAttribute>
-              <relative__x>506</relative__x>
-              <relative__y>536</relative__y>
-              <width>29</width>
-              <height>156</height>
+              <relative__x>960</relative__x>
+              <relative__y>418</relative__y>
+              <width>64</width>
+              <height>161</height>
               <sharpness>1.0</sharpness>
               <blurryness>0.0</blurryness>
               <dominantColors/>
@@ -86,6 +86,21 @@
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>15</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>14</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
               <type>15</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
@@ -101,29 +116,14 @@
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>15</type>
-            </de.swa.mmfg.CompositionRelationship>
-            <de.swa.mmfg.CompositionRelationship>
-              <type>11</type>
-            </de.swa.mmfg.CompositionRelationship>
-            <de.swa.mmfg.CompositionRelationship>
-              <type>15</type>
-            </de.swa.mmfg.CompositionRelationship>
-            <de.swa.mmfg.CompositionRelationship>
-              <type>11</type>
-            </de.swa.mmfg.CompositionRelationship>
-            <de.swa.mmfg.CompositionRelationship>
-              <type>11</type>
-            </de.swa.mmfg.CompositionRelationship>
-            <de.swa.mmfg.CompositionRelationship>
-              <type>15</type>
+              <type>14</type>
             </de.swa.mmfg.CompositionRelationship>
           </compositionRelationships>
           <assetLinks/>
           <fv reference="../../../../.."/>
         </de.swa.mmfg.Node>
         <de.swa.mmfg.Node>
-          <name>HumanAvatar</name>
+          <name>NonHumanAvatar</name>
           <childNodes/>
           <weights>
             <de.swa.mmfg.Weight>
@@ -134,15 +134,15 @@
               <context>
                 <name>Confidence</name>
               </context>
-              <weight>0.915958</weight>
+              <weight>0.55861</weight>
             </de.swa.mmfg.Weight>
           </weights>
           <technicalAttributes>
             <de.swa.mmfg.TechnicalAttribute>
-              <relative__x>874</relative__x>
-              <relative__y>1028</relative__y>
-              <width>232</width>
-              <height>464</height>
+              <relative__x>289</relative__x>
+              <relative__y>346</relative__y>
+              <width>39</width>
+              <height>81</height>
               <sharpness>1.0</sharpness>
               <blurryness>0.0</blurryness>
               <dominantColors/>
@@ -154,22 +154,13 @@
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>14</type>
-            </de.swa.mmfg.CompositionRelationship>
-            <de.swa.mmfg.CompositionRelationship>
-              <type>11</type>
-            </de.swa.mmfg.CompositionRelationship>
-            <de.swa.mmfg.CompositionRelationship>
-              <type>14</type>
-            </de.swa.mmfg.CompositionRelationship>
-            <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>14</type>
+              <type>15</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
@@ -178,10 +169,25 @@
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
+              <type>15</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>14</type>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>15</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>15</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
@@ -191,7 +197,7 @@
           <fv reference="../../../../.."/>
         </de.swa.mmfg.Node>
         <de.swa.mmfg.Node>
-          <name>HumanAvatar</name>
+          <name>NonHumanAvatar</name>
           <childNodes/>
           <weights>
             <de.swa.mmfg.Weight>
@@ -202,15 +208,95 @@
               <context>
                 <name>Confidence</name>
               </context>
-              <weight>0.952503</weight>
+              <weight>0.736989</weight>
             </de.swa.mmfg.Weight>
           </weights>
           <technicalAttributes>
             <de.swa.mmfg.TechnicalAttribute>
-              <relative__x>750</relative__x>
-              <relative__y>756</relative__y>
-              <width>104</width>
-              <height>304</height>
+              <relative__x>999</relative__x>
+              <relative__y>876</relative__y>
+              <width>123</width>
+              <height>327</height>
+              <sharpness>1.0</sharpness>
+              <blurryness>0.0</blurryness>
+              <dominantColors/>
+            </de.swa.mmfg.TechnicalAttribute>
+          </technicalAttributes>
+          <semanticRelationships/>
+          <compositionRelationships>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>14</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>14</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>14</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>14</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>14</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>14</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>14</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>14</type>
+            </de.swa.mmfg.CompositionRelationship>
+          </compositionRelationships>
+          <assetLinks/>
+          <fv reference="../../../../.."/>
+        </de.swa.mmfg.Node>
+        <de.swa.mmfg.Node>
+          <name>NonHumanAvatar</name>
+          <childNodes/>
+          <weights>
+            <de.swa.mmfg.Weight>
+              <context reference="../../../../../../../nodes/de.swa.mmfg.Node/weights/de.swa.mmfg.Weight/context"/>
+              <weight>0.5</weight>
+            </de.swa.mmfg.Weight>
+            <de.swa.mmfg.Weight>
+              <context>
+                <name>Confidence</name>
+              </context>
+              <weight>0.873427</weight>
+            </de.swa.mmfg.Weight>
+          </weights>
+          <technicalAttributes>
+            <de.swa.mmfg.TechnicalAttribute>
+              <relative__x>799</relative__x>
+              <relative__y>338</relative__y>
+              <width>35</width>
+              <height>112</height>
               <sharpness>1.0</sharpness>
               <blurryness>0.0</blurryness>
               <dominantColors/>
@@ -222,7 +308,13 @@
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>14</type>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>15</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
@@ -231,7 +323,16 @@
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>14</type>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>15</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>15</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
@@ -240,20 +341,17 @@
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>14</type>
+              <type>15</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
-            </de.swa.mmfg.CompositionRelationship>
-            <de.swa.mmfg.CompositionRelationship>
-              <type>14</type>
             </de.swa.mmfg.CompositionRelationship>
           </compositionRelationships>
           <assetLinks/>
           <fv reference="../../../../.."/>
         </de.swa.mmfg.Node>
         <de.swa.mmfg.Node>
-          <name>HumanAvatar</name>
+          <name>NonHumanAvatar</name>
           <childNodes/>
           <weights>
             <de.swa.mmfg.Weight>
@@ -264,15 +362,15 @@
               <context>
                 <name>Confidence</name>
               </context>
-              <weight>0.962052</weight>
+              <weight>0.887859</weight>
             </de.swa.mmfg.Weight>
           </weights>
           <technicalAttributes>
             <de.swa.mmfg.TechnicalAttribute>
-              <relative__x>553</relative__x>
-              <relative__y>472</relative__y>
+              <relative__x>638</relative__x>
+              <relative__y>759</relative__y>
               <width>69</width>
-              <height>248</height>
+              <height>163</height>
               <sharpness>1.0</sharpness>
               <blurryness>0.0</blurryness>
               <dominantColors/>
@@ -284,16 +382,13 @@
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>11</type>
-            </de.swa.mmfg.CompositionRelationship>
-            <de.swa.mmfg.CompositionRelationship>
-              <type>15</type>
+              <type>14</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>15</type>
+              <type>14</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
@@ -302,32 +397,47 @@
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>15</type>
+              <type>14</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>15</type>
+              <type>14</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>15</type>
+              <type>14</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>15</type>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>14</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>14</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>14</type>
             </de.swa.mmfg.CompositionRelationship>
           </compositionRelationships>
           <assetLinks/>
           <fv reference="../../../../.."/>
         </de.swa.mmfg.Node>
         <de.swa.mmfg.Node>
-          <name>HumanAvatar</name>
+          <name>NonHumanAvatar</name>
           <childNodes/>
           <weights>
             <de.swa.mmfg.Weight>
@@ -338,15 +448,15 @@
               <context>
                 <name>Confidence</name>
               </context>
-              <weight>0.965621</weight>
+              <weight>0.931174</weight>
             </de.swa.mmfg.Weight>
           </weights>
           <technicalAttributes>
             <de.swa.mmfg.TechnicalAttribute>
-              <relative__x>647</relative__x>
-              <relative__y>790</relative__y>
-              <width>115</width>
-              <height>318</height>
+              <relative__x>331</relative__x>
+              <relative__y>272</relative__y>
+              <width>52</width>
+              <height>112</height>
               <sharpness>1.0</sharpness>
               <blurryness>0.0</blurryness>
               <dominantColors/>
@@ -358,7 +468,7 @@
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>14</type>
+              <type>15</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
@@ -367,13 +477,7 @@
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>14</type>
-            </de.swa.mmfg.CompositionRelationship>
-            <de.swa.mmfg.CompositionRelationship>
-              <type>11</type>
-            </de.swa.mmfg.CompositionRelationship>
-            <de.swa.mmfg.CompositionRelationship>
-              <type>14</type>
+              <type>15</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
               <type>11</type>
@@ -382,7 +486,31 @@
               <type>11</type>
             </de.swa.mmfg.CompositionRelationship>
             <de.swa.mmfg.CompositionRelationship>
-              <type>14</type>
+              <type>15</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>15</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>15</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>11</type>
+            </de.swa.mmfg.CompositionRelationship>
+            <de.swa.mmfg.CompositionRelationship>
+              <type>15</type>
             </de.swa.mmfg.CompositionRelationship>
           </compositionRelationships>
           <assetLinks/>
@@ -406,6 +534,7 @@
     <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node[3]"/>
     <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node[4]"/>
     <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node[5]"/>
+    <de.swa.mmfg.Node reference="../de.swa.mmfg.Node[3]/childNodes/de.swa.mmfg.Node[6]"/>
   </allNodes>
   <collectionElements/>
 </de.swa.mmfg.MMFG>
